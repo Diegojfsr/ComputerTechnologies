@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0a027e15a0ab15",
+        "id": "4803614a04f2b978",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc33add58fde4de",
+            "id": "45d38bcc87e7e91e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.Operações de atualização/01.Métodos Update() do MongoDB.md",
+                "file": "09.Operações de consulta/01.Consulta em documentos incorporados-aninhados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Métodos Update() do MongoDB"
+              "title": "01.Consulta em documentos incorporados-aninhados"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.Operações de atualização/01.Métodos Update() do MongoDB.md",
+                "file": "09.Operações de consulta/01.Consulta em documentos incorporados-aninhados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Métodos Update() do MongoDB"
+              "title": "Sumário de 01.Consulta em documentos incorporados-aninhados"
             }
           },
           {
@@ -166,12 +166,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cfc33add58fde4de",
+  "active": "45d38bcc87e7e91e",
   "lastOpenFiles": [
+    "09.Operações de consulta/10.Operadores de consulta e projeção.md",
+    "09.Operações de consulta/example.md",
+    "09.Operações de consulta/09.Método FindOneAndReplace() do MongoDB.md",
+    "09.Operações de consulta/08.Método FindOneAndUpdate() do MongoDB.md",
+    "09.Operações de consulta/07.Método FindOneAndDelete() do MongoDB.md",
+    "09.Operações de consulta/06.Método FindAndModify() do MongoDB.md",
+    "09.Operações de consulta/05.Método FindOne() do MongoDB.md",
+    "09.Operações de consulta/04.Método Find() do MongoDB.md",
+    "09.Operações de consulta/03.Consulta de campos nulos ou ausentes.md",
+    "09.Operações de consulta/02.Consultar uma matriz.md",
+    "09.Operações de consulta/01.Consulta em documentos incorporados-aninhados.md",
+    "08.Operações de exclusão/04.Método deleteone() do MongoDB.md",
+    "08.Operações de exclusão/03.Excluir banco de dados usando MongoShell.md",
+    "08.Operações de exclusão/02.Excluir vários documentos usando o MongoShell.md",
+    "08.Operações de exclusão/01.Excluir documento único usando o MongoShell.md",
+    "07.Operações de atualização/01.Métodos Update() do MongoDB.md",
     "07.Operações de atualização/04.Métodos replaceone() do MongoDB.md",
     "07.Operações de atualização/03.Métodos UpdateMany() do MongoDB.md",
     "07.Operações de atualização/02.Métodos UpdateOne() do MongoDB.md",
-    "07.Operações de atualização/01.Métodos Update() do MongoDB.md",
     "06.Inserir operações/01.Métodos Insert() do MongoDB.md",
     "06.Inserir operações/03.Métodos InsertMany() do MongoDB.md",
     "06.Inserir operações/02.Métodos InsertOne() do MongoDB.md",
@@ -179,21 +194,6 @@
     "05.Operações CRUD no MongoDB/06.Criar banco de dados usando o MongoDB Compass.md",
     "05.Operações CRUD no MongoDB/05.MongoDB – Coleção Drop.md",
     "05.Operações CRUD no MongoDB/04.MongoDB – Criar coleção.md",
-    "05.Operações CRUD no MongoDB/03.MongoDB – Soltar banco de dados.md",
-    "05.Operações CRUD no MongoDB/02.MongoDB – Criar banco de dados.md",
-    "05.Operações CRUD no MongoDB/01.Operações CRUD no MongoDB.md",
-    "04.Ferramentas e interfaces/01.MongoDB Atlas.md",
-    "04.Ferramentas e interfaces/03.O que é MongoDB Shell.md",
-    "04.Ferramentas e interfaces/02.Bússola do MongoDB.md",
-    "03.Noções básicas do MongoDB/07.Introdução ao BSON e Tipos.md",
-    "03.Noções básicas do MongoDB/06.Introdução ao JSON.md",
-    "03.Noções básicas do MongoDB/05.O que é uma consulta do MongoDB.md",
-    "03.Noções básicas do MongoDB/04.O que é ObjectId no MongoDB.md",
-    "03.Noções básicas do MongoDB/03.Tipos de dados no MongoDB.md",
-    "03.Noções básicas do MongoDB/02.MongoDB Cursor.md",
-    "03.Noções básicas do MongoDB/01.MongoDB – Banco de dados, coleção e documento.md",
-    "02.Instalação e configuração/01.Como instalar o MongoDB no Windows.md",
-    "02.Instalação e configuração/05.Como instalar o MongoDB Atlas.md",
     "23.Aplicativos e projetos do MongoDB",
     "22.Segurança",
     "21.Replicação e fragmentação",
