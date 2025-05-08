@@ -629,6 +629,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#329bc8"
+    },
+    "22.Segurança": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#5a5fe7"
     }
   },
   "presets": {},
