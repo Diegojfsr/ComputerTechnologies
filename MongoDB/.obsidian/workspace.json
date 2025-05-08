@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f31d399d5d701e26",
+        "id": "7e352f6690c4a9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "fada9517a02ffeda",
+            "id": "faece22a0ad50728",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01.Introdução ao MongoDB/01.Introdução ao NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.Introdução ao NoSQL"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01.Introdução ao MongoDB/01.Introdução ao NoSQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01.Introdução ao NoSQL"
             }
           },
           {
@@ -161,10 +166,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fada9517a02ffeda",
+  "active": "faece22a0ad50728",
   "lastOpenFiles": [
+    "01.Introdução ao MongoDB/06.MongoDB vs MySQL.md",
+    "01.Introdução ao MongoDB/05.MongoDB vs RDBMS.md",
+    "01.Introdução ao MongoDB/04.Como funciona o MongoDB.md",
+    "01.Introdução ao MongoDB/03.Introdução ao MongoDB.md",
+    "01.Introdução ao MongoDB/02.Tipos de bancos de dados NoSQL.md",
+    "01.Introdução ao MongoDB/01.Introdução ao NoSQL.md",
+    "00.MongoDB Tutorial/1.MongoDB Tutorial.md",
+    "23.Aplicativos e projetos do MongoDB",
+    "22.Segurança",
+    "21.Replicação e fragmentação",
+    "20.Transações e modelagem de dados",
+    "19.Indexação",
+    "18.Agregação",
+    "17.Operadores de expressão de cadeia de caracteres",
+    "16.Operadores de atualização de array",
+    "15.Operadores de expressão de matriz",
+    "14.Operadores de atualização de campo",
     "5.Git and GitHub/1.Create a Repository on GitHub.md",
-    "Sem título.md",
     "4.Git Commands/1.Useful Git Commands and Basic Concepts.md",
     "4.Git Commands/67.How to Remove Local Untracked Files From Current Git Working Tree.md",
     "4.Git Commands/66.How to Use Git Log to Format the Commit History.md",
@@ -182,22 +203,6 @@
     "4.Git Commands/54.Git – git-show Command Line Utility.md",
     "4.Git Commands/53.Git - Cherry Pick.md",
     "4.Git Commands/52.Git – Filtering the Commit History.md",
-    "4.Git Commands/51.Git Subtree.md",
-    "4.Git Commands/50.Git Hooks.md",
-    "4.Git Commands/49.Git Tags.md",
-    "4.Git Commands/48.Recovering Lost Commits in Git.md",
-    "4.Git Commands/47.Git Merge and Merge Conflicts.md",
-    "4.Git Commands/46.Git Checkout and Merge.md",
-    "4.Git Commands/45.Git Prune.md",
-    "11.Git Advanced",
-    "10.Git Collaborating",
-    "9.Git and GitHub Deployment",
-    "8.Git and GitHub in Pycharm",
-    "7.Git and GitHub in Android Studio",
-    "6.Git and GitHub in VS Code",
-    "5.Git and GitHub",
-    "4.Git Commands",
-    "3.Git Installation",
-    "2.Git Basics"
+    "4.Git Commands/51.Git Subtree.md"
   ]
 }
