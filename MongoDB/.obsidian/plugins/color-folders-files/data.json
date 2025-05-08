@@ -615,6 +615,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#fbc756"
+    },
+    "20.Transações e modelagem de dados": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#e1c951"
     }
   },
   "presets": {},
