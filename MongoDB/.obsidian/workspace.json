@@ -11,10 +11,14 @@
             "id": "4823e10eeb8110cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "23.Aplicativos e projetos do MongoDB/01.Nodejs – Conecte o MongoDB ao aplicativo Node usando o MongooseJS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.Nodejs – Conecte o MongoDB ao aplicativo Node usando o MongooseJS"
             }
           }
         ]
@@ -90,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22.Segurança/01.Como proteger o banco de dados MongoDB.md",
+                "file": "23.Aplicativos e projetos do MongoDB/01.Nodejs – Conecte o MongoDB ao aplicativo Node usando o MongooseJS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Como proteger o banco de dados MongoDB"
+              "title": "Sumário de 01.Nodejs – Conecte o MongoDB ao aplicativo Node usando o MongooseJS"
             }
           },
           {
@@ -164,10 +168,14 @@
   },
   "active": "1b02efb55613b8a3",
   "lastOpenFiles": [
+    "23.Aplicativos e projetos do MongoDB/04.Conecte o projeto Django ao MongoDB usando o Django.md",
+    "23.Aplicativos e projetos do MongoDB/03.Formulário de login usando Node.js e MongoDB.md",
+    "23.Aplicativos e projetos do MongoDB/02.Formulário de inscrição usando Nodejs e MongoDB.md",
+    "23.Aplicativos e projetos do MongoDB/01.Nodejs – Conecte o MongoDB ao aplicativo Node usando o MongooseJS.md",
+    "22.Segurança/01.Como proteger o banco de dados MongoDB.md",
     "22.Segurança/04.Configurar o controle de acesso baseado em função no MongoDB.md",
     "22.Segurança/03.Como habilitar a autenticação no MongoDB.md",
     "22.Segurança/02.Como ativar o controle de acesso e autenticação no MongoDB.md",
-    "22.Segurança/01.Como proteger o banco de dados MongoDB.md",
     "21.Replicação e fragmentação/11.Arquiteturas de implantação de fragmentação.md",
     "21.Replicação e fragmentação/10.Semântica de leitura e gravação do conjunto de réplicas.md",
     "21.Replicação e fragmentação/09.Fragmentação à distância.md",
@@ -186,10 +194,6 @@
     "20.Transações e modelagem de dados/06.Incorporando dados em documentos.md",
     "20.Transações e modelagem de dados/05.MongoDB – Relacionamentos.md",
     "20.Transações e modelagem de dados/04.Modelagem de dados.md",
-    "20.Transações e modelagem de dados/03.Transações em Mongoose.md",
-    "19.Indexação/01.Criar um índice.md",
-    "19.Indexação/08.Índices de texto.md",
-    "19.Indexação/07.Índices de várias chaves.md",
     "19",
     "23.Aplicativos e projetos do MongoDB",
     "22.Segurança",

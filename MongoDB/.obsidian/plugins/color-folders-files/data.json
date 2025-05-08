@@ -636,6 +636,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#5a5fe7"
+    },
+    "23.Aplicativos e projetos do MongoDB": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#c141c3"
     }
   },
   "presets": {},
