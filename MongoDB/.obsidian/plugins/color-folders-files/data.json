@@ -601,6 +601,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#f57575"
+    },
+    "18.Agregação": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fdfcfc",
+      "backgroundColor": "#f3af39"
     }
   },
   "presets": {},
