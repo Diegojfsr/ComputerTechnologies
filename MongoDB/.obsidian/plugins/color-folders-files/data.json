@@ -587,6 +587,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#9660c3"
+    },
+    "16.Operadores de atualização de array": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#ffa8e8"
     }
   },
   "presets": {},
