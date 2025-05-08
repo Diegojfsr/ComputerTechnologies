@@ -580,6 +580,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#7074db"
+    },
+    "15.Operadores de expressão de matriz": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#9660c3"
     }
   },
   "presets": {},
