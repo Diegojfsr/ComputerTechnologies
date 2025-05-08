@@ -1,0 +1,22 @@
+{
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@card-border-radius-dark": "15px",
+  "Appearance-dark@@mod-left-split-background-select-dark": "mod-left-split-background-primary-dark",
+  "Appearance-dark@@mod-root-split-background-select-dark": "mod-root-split-background-primary-dark",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
+  "Appearance-dark@@background-underlying-select-dark": "background-underlying-default-dark",
+  "Appearance-dark@@background-underlying-dark": "#120114",
+  "Editor@@line-hover-indicator": true,
+  "Components@@colorful-folder": true,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "Appearance-light@@mod-left-split-background-select-light": "mod-left-split-background-primary-light",
+  "Appearance-light@@mod-root-split-background-select-light": "mod-root-split-background-primary-light",
+  "Appearance-light@@mod-right-split-background-select-light": "mod-right-split-background-primary-light",
+  "Appearance-dark@@mod-right-split-background-select-dark": "mod-right-split-background-primary-dark",
+  "Appearance-dark@@accent-color-override-dark": false,
+  "Components@@file-icon-remove": false,
+  "Components@@file-names-untrim": false,
+  "Components@@CTA-BTN-enable": false,
+  "Components@@folder-font-bold": false
+}
