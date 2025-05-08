@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9632a1b8f984cc60",
+        "id": "961ed1364c3eee9c",
         "type": "tabs",
         "children": [
           {
-            "id": "f91f478ae2fc3c5c",
+            "id": "7ce59ede020519bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "14.Operadores de atualização de campo/01.MongoDB – Operadores de atualização de campo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.MongoDB – Operadores de atualização de campo"
             }
           }
         ]
@@ -90,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13.Operadores aritméticos/01.Operador $add MongoDB.md",
+                "file": "14.Operadores de atualização de campo/01.MongoDB – Operadores de atualização de campo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Operador $add MongoDB"
+              "title": "Sumário de 01.MongoDB – Operadores de atualização de campo"
             }
           },
           {
@@ -162,14 +166,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b02efb55613b8a3",
+  "active": "7ce59ede020519bb",
   "lastOpenFiles": [
+    "14.Operadores de atualização de campo/06.MongoDB – Renomear Operador ($rename).md",
+    "14.Operadores de atualização de campo/05.MongoDB – Operador de multiplicação ($mul).md",
+    "14.Operadores de atualização de campo/04.MongoDB – Operador de incremento ( $inc ).md",
+    "14.Operadores de atualização de campo/03.MongoDB – Operador mínimo ( $min ).md",
+    "14.Operadores de atualização de campo/02.MongoDB – Operador máximo ( $max ).md",
+    "14.Operadores de atualização de campo/01.MongoDB – Operadores de atualização de campo.md",
+    "13.Operadores aritméticos/01.Operador $add MongoDB.md",
     "13.Operadores aritméticos/06.Operador $floor MongoDB.md",
     "13.Operadores aritméticos/05.Operador de $abs MongoDB.md",
     "13.Operadores aritméticos/04.Operador $divide MongoDB.md",
     "13.Operadores aritméticos/03.Operador $multiply MongoDB.md",
     "13.Operadores aritméticos/02.Operador $subtract MongoDB.md",
-    "13.Operadores aritméticos/01.Operador $add MongoDB.md",
     "12.Operadores lógicos/01.MongoDB – Operadores de consulta lógica.md",
     "12.Operadores lógicos/05.Operador NOR do MongoDB ( $nor ).md",
     "12.Operadores lógicos/04.Operador MongoDB NOT ( $not ).md",
@@ -184,12 +194,6 @@
     "09.Operações de consulta/01.Consulta em documentos incorporados-aninhados.md",
     "09.Operações de consulta/10.Operadores de consulta e projeção.md",
     "09.Operações de consulta/example.md",
-    "09.Operações de consulta/09.Método FindOneAndReplace() do MongoDB.md",
-    "09.Operações de consulta/08.Método FindOneAndUpdate() do MongoDB.md",
-    "09.Operações de consulta/07.Método FindOneAndDelete() do MongoDB.md",
-    "09.Operações de consulta/06.Método FindAndModify() do MongoDB.md",
-    "09.Operações de consulta/05.Método FindOne() do MongoDB.md",
-    "09.Operações de consulta/04.Método Find() do MongoDB.md",
     "23.Aplicativos e projetos do MongoDB",
     "22.Segurança",
     "21.Replicação e fragmentação",

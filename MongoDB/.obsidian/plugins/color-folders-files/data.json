@@ -573,6 +573,13 @@
       "isBold": true,
       "textColor": "#f5f5f5",
       "backgroundColor": "#4faeba"
+    },
+    "14.Operadores de atualização de campo": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#7074db"
     }
   },
   "presets": {},
