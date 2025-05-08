@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d571fa3ddebda57",
+        "id": "e14f8e48d2f3cc74",
         "type": "tabs",
         "children": [
           {
-            "id": "cb2cfe05f10aef07",
+            "id": "d23c3073a0ea9c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Noções básicas do MongoDB/07.Introdução ao BSON e Tipos.md",
+                "file": "04.Ferramentas e interfaces/01.MongoDB Atlas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.Introdução ao BSON e Tipos"
+              "title": "01.MongoDB Atlas"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Noções básicas do MongoDB/07.Introdução ao BSON e Tipos.md",
+                "file": "04.Ferramentas e interfaces/01.MongoDB Atlas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 07.Introdução ao BSON e Tipos"
+              "title": "Sumário de 01.MongoDB Atlas"
             }
           },
           {
@@ -166,15 +166,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cb2cfe05f10aef07",
+  "active": "d23c3073a0ea9c49",
   "lastOpenFiles": [
+    "04.Ferramentas e interfaces/03.O que é MongoDB Shell.md",
+    "04.Ferramentas e interfaces/02.Bússola do MongoDB.md",
+    "04.Ferramentas e interfaces/01.MongoDB Atlas.md",
+    "03.Noções básicas do MongoDB/07.Introdução ao BSON e Tipos.md",
     "03.Noções básicas do MongoDB/06.Introdução ao JSON.md",
     "03.Noções básicas do MongoDB/05.O que é uma consulta do MongoDB.md",
     "03.Noções básicas do MongoDB/04.O que é ObjectId no MongoDB.md",
     "03.Noções básicas do MongoDB/03.Tipos de dados no MongoDB.md",
     "03.Noções básicas do MongoDB/02.MongoDB Cursor.md",
     "03.Noções básicas do MongoDB/01.MongoDB – Banco de dados, coleção e documento.md",
-    "03.Noções básicas do MongoDB/07.Introdução ao BSON e Tipos.md",
     "02.Instalação e configuração/01.Como instalar o MongoDB no Windows.md",
     "02.Instalação e configuração/05.Como instalar o MongoDB Atlas.md",
     "02.Instalação e configuração/04.Como instalar o MongoDB Compass no Windows.md",
@@ -200,9 +203,6 @@
     "5.Git and GitHub/1.Create a Repository on GitHub.md",
     "4.Git Commands/1.Useful Git Commands and Basic Concepts.md",
     "4.Git Commands/67.How to Remove Local Untracked Files From Current Git Working Tree.md",
-    "4.Git Commands/66.How to Use Git Log to Format the Commit History.md",
-    "4.Git Commands/65.Git – Difference Between Merging and Rebasing.md",
-    "4.Git Commands/64.Difference Between Git remote prune, Git prune, on and Git fetch –prune.md",
-    "4.Git Commands/63.Difference Between Git Push Origin and Git Push Origin Master.md"
+    "4.Git Commands/66.How to Use Git Log to Format the Commit History.md"
   ]
 }
