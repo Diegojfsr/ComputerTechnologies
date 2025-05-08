@@ -622,6 +622,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#e1c951"
+    },
+    "21.Replicação e fragmentação": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#329bc8"
     }
   },
   "presets": {},
