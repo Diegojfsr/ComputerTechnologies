@@ -607,7 +607,14 @@
       "applyToSubfolders": true,
       "isBold": true,
       "textColor": "#fdfcfc",
-      "backgroundColor": "#f3af39"
+      "backgroundColor": "#fb894b"
+    },
+    "19.Indexação": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#fbc756"
     }
   },
   "presets": {},
