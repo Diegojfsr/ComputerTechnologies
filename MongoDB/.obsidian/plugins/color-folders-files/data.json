@@ -474,6 +474,98 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#61c445"
+    },
+    "00.MongoDB Tutorial": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ebebeb",
+      "backgroundColor": "#f45d5d"
+    },
+    "01.Introdução ao MongoDB": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f3f2f2",
+      "backgroundColor": "#f49343"
+    },
+    "02.Instalação e configuração": {
+      "isItalic": false,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#efd44d"
+    },
+    "03.Noções básicas do MongoDB": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f4f0f0",
+      "backgroundColor": "#a7e13d"
+    },
+    "04.Ferramentas e interfaces": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#38c294"
+    },
+    "05.Operações CRUD no MongoDB": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fffafa",
+      "backgroundColor": "#609ee2"
+    },
+    "06.Inserir operações": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f9f1f1",
+      "backgroundColor": "#cc6bef"
+    },
+    "07.Operações de atualização": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fdf7f7",
+      "backgroundColor": "#e6adcb"
+    },
+    "08.Operações de exclusão": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f7f3f3",
+      "backgroundColor": "#f58f8f"
+    },
+    "09.Operações de consulta": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f9f1f1",
+      "backgroundColor": "#f4b071"
+    },
+    "10.Operadores do MongoDB": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fdf2f2",
+      "backgroundColor": "#f9e980"
+    },
+    "11.Operadores de comparação": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ede3e3",
+      "backgroundColor": "#ecd66a"
+    },
+    "12.Operadores lógicos": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f0f0",
+      "backgroundColor": "#6bc33c"
     }
   },
   "presets": {},
