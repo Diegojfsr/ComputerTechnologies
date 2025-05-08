@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e352f6690c4a9b7",
+        "id": "bc5b3cc23b98315d",
         "type": "tabs",
         "children": [
           {
-            "id": "faece22a0ad50728",
+            "id": "38f8896e6a5978e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Introdução ao MongoDB/01.Introdução ao NoSQL.md",
+                "file": "02.Instalação e configuração/01.Como instalar o MongoDB no Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Introdução ao NoSQL"
+              "title": "01.Como instalar o MongoDB no Windows"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Introdução ao MongoDB/01.Introdução ao NoSQL.md",
+                "file": "02.Instalação e configuração/01.Como instalar o MongoDB no Windows.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Introdução ao NoSQL"
+              "title": "Sumário de 01.Como instalar o MongoDB no Windows"
             }
           },
           {
@@ -166,14 +166,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "faece22a0ad50728",
+  "active": "38f8896e6a5978e6",
   "lastOpenFiles": [
-    "01.Introdução ao MongoDB/06.MongoDB vs MySQL.md",
+    "02.Instalação e configuração/05.Como instalar o MongoDB Atlas.md",
+    "02.Instalação e configuração/04.Como instalar o MongoDB Compass no Windows.md",
+    "02.Instalação e configuração/03.Como instalar e configurar o MongoDB no Ubuntu.md",
+    "02.Instalação e configuração/02.Como instalar o MongoDB no MacOS.md",
+    "02.Instalação e configuração/01.Como instalar o MongoDB no Windows.md",
     "01.Introdução ao MongoDB/05.MongoDB vs RDBMS.md",
+    "01.Introdução ao MongoDB/06.MongoDB vs MySQL.md",
+    "01.Introdução ao MongoDB/01.Introdução ao NoSQL.md",
     "01.Introdução ao MongoDB/04.Como funciona o MongoDB.md",
     "01.Introdução ao MongoDB/03.Introdução ao MongoDB.md",
     "01.Introdução ao MongoDB/02.Tipos de bancos de dados NoSQL.md",
-    "01.Introdução ao MongoDB/01.Introdução ao NoSQL.md",
     "00.MongoDB Tutorial/1.MongoDB Tutorial.md",
     "23.Aplicativos e projetos do MongoDB",
     "22.Segurança",
@@ -198,11 +203,6 @@
     "4.Git Commands/59.Error Searching and Handling in Git.md",
     "4.Git Commands/58.Sync your fork with a master in GitHub.md",
     "4.Git Commands/57.Shallow Clone on Git Linux.md",
-    "4.Git Commands/56.Git - Changing History.md",
-    "4.Git Commands/55.Git – Working Tree.md",
-    "4.Git Commands/54.Git – git-show Command Line Utility.md",
-    "4.Git Commands/53.Git - Cherry Pick.md",
-    "4.Git Commands/52.Git – Filtering the Commit History.md",
-    "4.Git Commands/51.Git Subtree.md"
+    "4.Git Commands/56.Git - Changing History.md"
   ]
 }
