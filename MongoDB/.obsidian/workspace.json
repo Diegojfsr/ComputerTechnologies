@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6b477a6a27e6c89",
+        "id": "d9df015ed119e4cc",
         "type": "tabs",
         "children": [
           {
-            "id": "10c91d51edb8c696",
+            "id": "2769305a4703db7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16.Operadores de atualização de array/06.Todos os operadores posicionais.md",
+                "file": "17.Operadores de expressão de cadeia de caracteres/05.$substrCP operador (agregação) no MongoDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06.Todos os operadores posicionais"
+              "title": "05.$substrCP operador (agregação) no MongoDB"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "16.Operadores de atualização de array/06.Todos os operadores posicionais.md",
+                "file": "17.Operadores de expressão de cadeia de caracteres/05.$substrCP operador (agregação) no MongoDB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 06.Todos os operadores posicionais"
+              "title": "Sumário de 05.$substrCP operador (agregação) no MongoDB"
             }
           },
           {
@@ -166,14 +166,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "10c91d51edb8c696",
+  "active": "2769305a4703db7e",
   "lastOpenFiles": [
+    "17.Operadores de expressão de cadeia de caracteres/04.Operador $toLower MongoDB.md",
+    "17.Operadores de expressão de cadeia de caracteres/03.Operador $toUpper MongoDB.md",
+    "17.Operadores de expressão de cadeia de caracteres/02.Operador $strcasecmp MongoDB.md",
+    "17.Operadores de expressão de cadeia de caracteres/01.Operador de $concat do MongoDB.md",
+    "17.Operadores de expressão de cadeia de caracteres/05.$substrCP operador (agregação) no MongoDB.md",
+    "16.Operadores de atualização de array/06.Todos os operadores posicionais.md",
     "16.Operadores de atualização de array/05.Operador Posicional ($).md",
     "16.Operadores de atualização de array/04.Operador $push.md",
     "16.Operadores de atualização de array/03.Operador $pullAll.md",
     "16.Operadores de atualização de array/2.Operador $pop.md",
     "16.Operadores de atualização de array/01.Operador $pull.md",
-    "16.Operadores de atualização de array/06.Todos os operadores posicionais.md",
     "15.Operadores de expressão de matriz/01.Operador $isArray MongoDB.md",
     "15.Operadores de expressão de matriz/05.Operador $reverseArray MongoDB.md",
     "15.Operadores de expressão de matriz/04.Operador $concatArrays MongoDB.md",
@@ -189,11 +194,6 @@
     "13.Operadores aritméticos/06.Operador $floor MongoDB.md",
     "13.Operadores aritméticos/05.Operador de $abs MongoDB.md",
     "13.Operadores aritméticos/04.Operador $divide MongoDB.md",
-    "13.Operadores aritméticos/03.Operador $multiply MongoDB.md",
-    "13.Operadores aritméticos/02.Operador $subtract MongoDB.md",
-    "12.Operadores lógicos/01.MongoDB – Operadores de consulta lógica.md",
-    "12.Operadores lógicos/05.Operador NOR do MongoDB ( $nor ).md",
-    "12.Operadores lógicos/04.Operador MongoDB NOT ( $not ).md",
     "23.Aplicativos e projetos do MongoDB",
     "22.Segurança",
     "21.Replicação e fragmentação",

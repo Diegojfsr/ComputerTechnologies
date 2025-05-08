@@ -594,6 +594,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#ffa8e8"
+    },
+    "17.Operadores de expressão de cadeia de caracteres": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#f57575"
     }
   },
   "presets": {},
