@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9608e8b1f58abee",
+        "id": "589058c891483ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c75d49a8b81776",
+            "id": "1b963b294573d075",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02.Tailwind CSS Básico/01.Introdução ao Tailwind CSS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.Introdução ao Tailwind CSS"
             }
           }
         ]
@@ -90,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Tailwind CSS Tutorial/01.Tailwind CSS Tutorial.md",
+                "file": "02.Tailwind CSS Básico/01.Introdução ao Tailwind CSS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Tailwind CSS Tutorial"
+              "title": "Sumário de 01.Introdução ao Tailwind CSS"
             }
           },
           {
@@ -162,43 +166,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b02efb55613b8a3",
+  "active": "1b963b294573d075",
   "lastOpenFiles": [
+    "19.Tailwind CSS for Interview/02.Tailwind CSS Exercises, Practice Questions and Solutions.md",
+    "19.Tailwind CSS for Interview/01.Tailwind CSS Interview Questions and Answers.md",
+    "18.Tailwind CSS SVG/02.Stroke.md",
+    "18.Tailwind CSS SVG/03.Stroke Width.md",
+    "18.Tailwind CSS SVG/01.Fill.md",
+    "17.Tailwind CSS Interactivity/06.Select.md",
+    "17.Tailwind CSS Interactivity/05.Resize.md",
+    "17.Tailwind CSS Interactivity/04.Pointer Events.md",
+    "17.Tailwind CSS Interactivity/03.Outline.md",
+    "17.Tailwind CSS Interactivity/02.Cursor.md",
+    "17.Tailwind CSS Interactivity/01.Appearance.md",
+    "16.Tailwind CSS Transforms/05.Translate.md",
+    "16.Tailwind CSS Transforms/04.Rotate.md",
+    "16.Tailwind CSS Transforms/03.Scale.md",
+    "16.Tailwind CSS Transforms/02.Transform Origin.md",
+    "16.Tailwind CSS Transforms/01.Transform.md",
+    "15.Transições e animação CSS do Tailwind/04.Transition Delay.md",
+    "15.Transições e animação CSS do Tailwind/03.Transition Timing Function.md",
+    "15.Transições e animação CSS do Tailwind/02.Transition Duration.md",
+    "15.Transições e animação CSS do Tailwind/01.Transition Property.md",
+    "14.Tabelas CSS Tailwind/02.Table Layout.md",
+    "14.Tabelas CSS Tailwind/01.Border Collapse.md",
+    "13.Filtros CSS Tailwind/20.Backdrop Sepia.md",
+    "13.Filtros CSS Tailwind/19.Backdrop Saturate.md",
+    "13.Filtros CSS Tailwind/18.Backdrop Opacity.md",
+    "13.Filtros CSS Tailwind/17.Backdrop Invert.md",
     "20.Vantagens do Tailwind CSS",
     "19.Tailwind CSS for Interview",
     "18.Tailwind CSS SVG",
     "17.Tailwind CSS Interactivity",
-    "16.Transformações CSS do Tailwind",
+    "16.Tailwind CSS Transforms",
     "15.Transições e animação CSS do Tailwind",
     "14.Tabelas CSS Tailwind",
     "13.Filtros CSS Tailwind",
     "12.Efeitos CSS do Tailwind",
-    "11.Tailwind CSS Borders",
-    "10.Fundos CSS Tailwind",
-    "00.Tailwind CSS Tutorial/01.Tailwind CSS Tutorial.md",
-    "23.Aplicativos e projetos do MongoDB/04.Conecte o projeto Django ao MongoDB usando o Django.md",
-    "23.Aplicativos e projetos do MongoDB/03.Formulário de login usando Node.js e MongoDB.md",
-    "23.Aplicativos e projetos do MongoDB/02.Formulário de inscrição usando Nodejs e MongoDB.md",
-    "23.Aplicativos e projetos do MongoDB/01.Nodejs – Conecte o MongoDB ao aplicativo Node usando o MongooseJS.md",
-    "22.Segurança/01.Como proteger o banco de dados MongoDB.md",
-    "22.Segurança/04.Configurar o controle de acesso baseado em função no MongoDB.md",
-    "22.Segurança/03.Como habilitar a autenticação no MongoDB.md",
-    "22.Segurança/02.Como ativar o controle de acesso e autenticação no MongoDB.md",
-    "21.Replicação e fragmentação/11.Arquiteturas de implantação de fragmentação.md",
-    "21.Replicação e fragmentação/10.Semântica de leitura e gravação do conjunto de réplicas.md",
-    "21.Replicação e fragmentação/09.Fragmentação à distância.md",
-    "21.Replicação e fragmentação/08.Fragmentação com hash.md",
-    "21.Replicação e fragmentação/07.Chaves de fragmento.md",
-    "21.Replicação e fragmentação/06.Componentes do cluster fragmentado.md",
-    "21.Replicação e fragmentação/05.Implantação do conjunto de réplicas.md",
-    "21.Replicação e fragmentação/04.Membros do conjunto de réplicas.md",
-    "21.Replicação e fragmentação/03.Fluxos de mudança.md",
-    "21.Replicação e fragmentação/02.Fragmentação do MongoDB.md",
-    "21.Replicação e fragmentação/01.Replicação do MongoDB.md",
-    "20.Transações e modelagem de dados/01.Transações no MongoDB.md",
-    "20.Transações e modelagem de dados/02.Transações ACID no MongoDB.md",
-    "20.Transações e modelagem de dados/08.Dimensionamento no MongoDB.md",
-    "20.Transações e modelagem de dados/07.Especificar validação de esquema JSON.md",
-    "20.Transações e modelagem de dados/06.Incorporando dados em documentos.md"
+    "11.Tailwind CSS Borders"
   ]
 }

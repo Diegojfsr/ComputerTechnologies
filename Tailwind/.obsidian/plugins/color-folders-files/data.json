@@ -643,6 +643,139 @@
       "isBold": true,
       "textColor": "#fafafa",
       "backgroundColor": "#c141c3"
+    },
+    "00.Tailwind CSS Tutorial": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#d04358"
+    },
+    "02.Tailwind CSS Básico": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#d69251"
+    },
+    "03.Tailwind CSS Layout": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#d9c168"
+    },
+    "04.Tailwind CSS Flexbox": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#5ba95d"
+    },
+    "05.Tailwind CSS Grid": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#7781cf"
+    },
+    "06.Alinhamento CSS do Tailwind": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#62b2c6"
+    },
+    "07.Espaçamento CSS Tailwind": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f2f2f2",
+      "backgroundColor": "#7b4fb0"
+    },
+    "08.Dimensionamento CSS Tailwind": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f7f7f7",
+      "backgroundColor": "#c874b2"
+    },
+    "09.Tipografia CSS Tailwind": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#c8515d"
+    },
+    "10.Backgrounds Tailwind": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fdfcfc",
+      "backgroundColor": "#b87b42"
+    },
+    "11.Tailwind CSS Borders": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#ad9a52"
+    },
+    "12.Efeitos CSS do Tailwind": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#509f5a"
+    },
+    "13.Filtros CSS Tailwind": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#50a8af"
+    },
+    "14.Tabelas CSS Tailwind": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#6a76d2"
+    },
+    "15.Transições e animação CSS do Tailwind": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#855fb4"
+    },
+    "16.Tailwind CSS Transforms": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#ce73b6"
+    },
+    "17.Tailwind CSS Interactivity": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#b9505a"
+    },
+    "18.Tailwind CSS SVG": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#c39265"
+    },
+    "19.Tailwind CSS for Interview": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#ceba73"
     }
   },
   "presets": {},
