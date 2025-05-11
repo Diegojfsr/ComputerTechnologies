@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "418211c42de8455a",
+        "id": "323ac01c153e9b06",
         "type": "tabs",
         "children": [
           {
-            "id": "7f01ad5dd8f6db0b",
+            "id": "94377453937d35db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7f01ad5dd8f6db0b",
+  "active": "94377453937d35db",
   "lastOpenFiles": [
+    "00.Git Tutorial/01.Git Tutorial.md",
     "04.Comandos do Git/67.Como remover arquivos locais não rastreados da árvore de trabalho atual do Git.md",
     "04.Comandos do Git/66.Como usar o log do Git para formatar o histórico de commits.md",
     "04.Comandos do Git/65.Git – Diferença entre mesclar e rebasear.md",
@@ -188,7 +189,6 @@
     "04.Comandos do Git/45.Git Prune.md",
     "04.Comandos do Git/44.Git Index.md",
     "04.Comandos do Git/43.Git Blame.md",
-    "04.Comandos do Git/42.Git Status.md",
     "04.Comandos do Git",
     "03.Instalação do Git",
     "02.Noções básicas do Git",
