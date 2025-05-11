@@ -474,6 +474,41 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#61c445"
+    },
+    "00.Git Tutorial": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#b54f59"
+    },
+    "01.Introdução ao Git": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fffafa",
+      "backgroundColor": "#b18359"
+    },
+    "02.Noções básicas do Git": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#b09e5e"
+    },
+    "03.Instalação do Git": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#509151"
+    },
+    "04.Comandos do Git": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fffafa",
+      "backgroundColor": "#5c9ea3"
     }
   },
   "presets": {},
