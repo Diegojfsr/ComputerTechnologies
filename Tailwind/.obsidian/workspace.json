@@ -90,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Tailwind CSS Básico/01.Introdução ao Tailwind CSS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Introdução ao Tailwind CSS"
+              "title": "Sumário"
             }
           },
           {

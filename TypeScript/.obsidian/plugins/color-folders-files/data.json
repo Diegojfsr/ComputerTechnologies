@@ -474,6 +474,111 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#61c445"
+    },
+    "00.TypeScript Tutorial": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#ab4f58"
+    },
+    "01.TypeScript Basics": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#b48050"
+    },
+    "02.TypeScript Functions": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#b6a35d"
+    },
+    "03.TypeScipt Beginner Projects": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#4e884f"
+    },
+    "03.Projetos para iniciantes do TypeScipt": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#4e7f50"
+    },
+    "04.Tipos de objetos e interfaces TypeScript": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f8f7f7",
+      "backgroundColor": "#569195"
+    },
+    "05.Classes TypeScript e Programação Orientada a Objetos": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fffafa",
+      "backgroundColor": "#597ca1"
+    },
+    "06.TypeScript Generics": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#8162a7"
+    },
+    "07.Projetos intermediários do TypeScript": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#ac779e"
+    },
+    "08.Tipos avançados de TypeScript": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#ad525b"
+    },
+    "09.Módulos e namespaces TypeScript": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#aa7e55"
+    },
+    "10.TypeScript Testing": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#b09e5e"
+    },
+    "11.Configuração e desempenho do TypeScript": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#4b7252"
+    },
+    "12.Fatos interessantes sobre o TypeScript": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f6f4f4",
+      "backgroundColor": "#58989d"
+    },
+    "13.Projetos Avançados do TypeScript": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#567ca4"
     }
   },
   "presets": {},
