@@ -642,6 +642,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#a7769a"
+    },
+    "24.Node.js Zlib Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fffafa",
+      "backgroundColor": "#b05e67"
     }
   },
   "presets": {},
