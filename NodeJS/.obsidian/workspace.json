@@ -4,20 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "1c5eb5acd9a73646",
+        "id": "0763690039a862ac",
         "type": "tabs",
         "children": [
           {
-            "id": "62e340d180f660e0",
+            "id": "4c652cc154258d83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "23.zlib.gunzipSync().md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "23.zlib.gunzipSync()"
+            }
+          },
+          {
+            "id": "a1e0b78be7294a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24.zlib.gunzipSync().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24.zlib.gunzipSync()"
+            }
+          },
+          {
+            "id": "e6b1937770e96a56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25.zlib.gzipSync().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.zlib.gzipSync()"
+            }
+          },
+          {
+            "id": "608c082b197558e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26.zlib.inflate().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26.zlib.inflate()"
+            }
+          },
+          {
+            "id": "88f3a1adfb70c3ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "27.zlib.inflateSync().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27.zlib.inflateSync()"
+            }
+          },
+          {
+            "id": "0155e9edb8512546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28.zlib.inflateRaw().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28.zlib.inflateRaw()"
+            }
+          },
+          {
+            "id": "aab204124f906d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "29.zlib.inflateRawSync().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "29.zlib.inflateRawSync()"
+            }
+          },
+          {
+            "id": "b91d0e88bd772ad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30.zlib.unzip().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30.zlib.unzip()"
+            }
+          },
+          {
+            "id": "0262b889efe95030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31.zlib.unzipSync().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31.zlib.unzipSync()"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -74,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 395.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -90,12 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "31.zlib.unzipSync().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 31.zlib.unzipSync()"
             }
           },
           {
@@ -149,7 +267,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,43 +280,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "62e340d180f660e0",
+  "active": "0262b889efe95030",
   "lastOpenFiles": [
-    "12.Node.js Path Module Complete Reference/11.Node.js Path Module Methods - Node.js path.toNamespacedPath() Method.md",
-    "12.Node.js Path Module Complete Reference/12.Node.js Path Module Properties - Node.js path.delimiter Property.md",
-    "12.Node.js Path Module Complete Reference/10.Node.js Path Module Methods - Node.js path.resolve() Method.md",
-    "12.Node.js Path Module Complete Reference/09.Node.js Path Module Methods - Node.js path.relative() Method.md",
-    "12.Node.js Path Module Complete Reference/08.Node.js Path Module Methods - Node.js path.parse() Method.md",
-    "12.Node.js Path Module Complete Reference/07.Node.js Path Module Methods - Node.js path.normalize() Method.md",
-    "12.Node.js Path Module Complete Reference/06.Node.js Path Module Methods - Node.js path.join() Method.md",
-    "12.Node.js Path Module Complete Reference/05.Node.js Path Module Methods - Node.js path.isAbsolute() Method.md",
-    "12.Node.js Path Module Complete Reference/04.Node.js Path Module Methods - Node.js path.format() Method.md",
-    "12.Node.js Path Module Complete Reference/03.Node.js Path Module Methods - Node.js path.extname() Method.md",
-    "12.Node.js Path Module Complete Reference/02.Node.js Path Module Methods - Node.js path.dirname() Method.md",
-    "12.Node.js Path Module Complete Reference/01.Node.js Path Module Methods - Node.js path.basename() Method.md",
-    "12.Node.js Path Module Complete Reference",
-    "11.Node.js OS Complete Reference/19.Node.js os.version() Method.md",
-    "11.Node.js OS Complete Reference/18.Node.js os.userInfo() Method.md",
-    "11.Node.js OS Complete Reference/17.Node.js os.uptime() Method.md",
-    "11.Node.js OS Complete Reference/16.Node.js os.type() Method.md",
-    "11.Node.js OS Complete Reference/15.Node.js os.totalmem() Method.md",
-    "11.Node.js OS Complete Reference/14.Node.js os.tmpdir() Method.md",
-    "11.Node.js OS Complete Reference/13.Node.js os.setPriority() Method.md",
-    "11.Node.js OS Complete Reference/12.Node.js os.release() Method.md",
-    "11.Node.js OS Complete Reference/11.Node.js os.platform() Method.md",
-    "11.Node.js OS Complete Reference/10.Node.js os.networkInterfaces() Method.md",
-    "11.Node.js OS Complete Reference/09.Node.js os.loadavg() Method.md",
-    "11.Node.js OS Complete Reference/08.Node.js os.hostname() Method.md",
-    "11.Node.js OS Complete Reference/07.Node.js os.homedir() Method.md",
-    "11.Node.js OS Complete Reference/06.Node.js os.getPriority() Method.md",
-    "11.Node.js OS Complete Reference",
-    "10.Node.js HTTP2 Complete Reference",
-    "09.Node.js HTTP Module Complete Reference",
-    "08.Node.js Globals Complete Reference",
-    "07.Node.js File System Complete Reference",
-    "06.Node.js DNS Complete Reference",
-    "05.Node.js Crypto Complete Reference",
-    "04.Node.js Console Complete Reference",
-    "03.Node.js Buffer Complete Reference"
+    "30.zlib.unzip().md",
+    "31.zlib.unzipSync().md",
+    "29.zlib.inflateRawSync().md",
+    "28.zlib.inflateRaw().md",
+    "27.zlib.inflateSync().md",
+    "26.zlib.inflate().md",
+    "25.zlib.gzipSync().md",
+    "24.zlib.gunzipSync().md",
+    "23.zlib.gunzipSync().md",
+    "22.zlib.gunzip().md",
+    "21.zlib.deflateRawSync().md",
+    "20.zlib.deflateRaw().md",
+    "19.zlib.deflateSync().md",
+    "18.zlib.deflate().md",
+    "17.zlib.brotliDecompressSync().md",
+    "16.zlib.brotliDecompress().md",
+    "15.zlib.brotliCompressSync().md",
+    "14.zlib.brotliCompress().md",
+    "13.zlib.flush().md",
+    "12.zlib.close().md",
+    "11.zlib.bytesWritten.md",
+    "10.zlib.gzip().md",
+    "09.zlib.createInflate().md",
+    "08.zlib.createDeflate().md",
+    "07.zlib.createInflateRaw().md",
+    "06.zlib.createGunzip().md",
+    "24.Node.js Zlib Complete Reference",
+    "23.Node.js VM Complete Reference",
+    "22.Node.js V8 Complete Reference",
+    "21.Node.js Utility Complete Reference",
+    "20.Node.js URL Complete Reference",
+    "19.Node.js UDP-DataGram Complete Reference",
+    "18.Node.js TLS-SSL Complete Reference",
+    "17.Node.js Timers Complete Reference",
+    "16.Node.js String Decoder Complete Reference",
+    "15.Node.js Stream Complete Reference"
   ]
 }

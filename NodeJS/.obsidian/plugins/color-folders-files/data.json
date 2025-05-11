@@ -565,6 +565,83 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#58989d"
+    },
+    "13.Node.js Process Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fdfcfc",
+      "backgroundColor": "#58799d"
+    },
+    "14.Node.js Query String Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f6eeee",
+      "backgroundColor": "#665381"
+    },
+    "15.Node.js Stream Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#a6779a"
+    },
+    "16.Node.js String Decoder Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#b0545d"
+    },
+    "17.Node.js Timers Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#be8550"
+    },
+    "18.Node.js TLS-SSL Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#ba9b5a"
+    },
+    "19.Node.js UDP-DataGram Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#61a654"
+    },
+    "20.Node.js URL Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#51959a"
+    },
+    "21.Node.js Utility Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#567ca4"
+    },
+    "22.Node.js V8 Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fffafa",
+      "backgroundColor": "#8664af"
+    },
+    "23.Node.js VM Complete Reference": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#a7769a"
     }
   },
   "presets": {},
