@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "a8017cc2ee0e9476",
+    "type": "split",
+    "children": [
+      {
+        "id": "873e16a60fcfeafb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a207c98e0edaa220",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95edef668b657176",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd926b8554709dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b02efb55613b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fcf5211b07f910d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2546ad1fa6d4380f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "1b77f82fc4207f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9588303afd4cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29bd78191eb249e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "dbe9e1e4c0cb097a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
+            }
+          },
+          {
+            "id": "433c1db50f655ade",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8683bbb36e1857f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a207c98e0edaa220",
+  "lastOpenFiles": [
+    "19.Windows Forms/15.FlowLayoutPanel Class.md",
+    "19.Windows Forms/14.GroupBox Class.md",
+    "19.Windows Forms/13.ListBox Class.md",
+    "19.Windows Forms/12.DateTimePicker Class.md",
+    "19.Windows Forms/11.NumericUpDown Class.md",
+    "19.Windows Forms/10.MaskedBox Class.md",
+    "19.Windows Forms/09.RichTextBox Class.md",
+    "19.Windows Forms/08.ToolTip Class.md",
+    "19.Windows Forms/07.ComboBox Control.md",
+    "19.Windows Forms/06.TextBox Control.md",
+    "19.Windows Forms/05.CheckBox Control.md",
+    "19.Windows Forms/04.RadioButton Control.md",
+    "19.Windows Forms/03.Label Control.md",
+    "19.Windows Forms/02.Button Control.md",
+    "19.Windows Forms/01.O que é o Windows Forms (WF).md",
+    "19.Windows Forms",
+    "18.Csharp 8.0/04.Index Struct.md",
+    "18.Csharp 8.0/03.Range Structure.md",
+    "18.Csharp 8.0/02.Range and Indices.md",
+    "18.Csharp 8.0/01.Static Local Function.md",
+    "18.Csharp 8.0",
+    "17.Namespace especializado/05.Classe StringDictionary.md",
+    "17.Namespace especializado/04.Classe HybridDictionary.md",
+    "17.Namespace especializado/03.Classe OrderedDictionary.md",
+    "17.Namespace especializado/02.Classe StringCollection.md",
+    "17.Namespace especializado/01.Classe ListDictionary.md",
+    "17.Namespace especializado",
+    "16.System Namespace/12.UInt64 Struct.md",
+    "16.System Namespace/11.UInt32 Struct.md",
+    "16.System Namespace",
+    "15.Generic Namespace",
+    "14.Collections Namespace",
+    "13.Collections & Generics",
+    "12.Tratamento de exceções",
+    "11.Multithreading",
+    "10.Indexadores e propriedades"
+  ]
+}
