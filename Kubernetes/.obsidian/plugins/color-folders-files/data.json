@@ -474,6 +474,27 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#61c445"
+    },
+    "00.Kubernetes Tutorial": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#974c53"
+    },
+    "01.Noções básicas do Kubernetes": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#957254"
+    },
+    "02.Kubernetes avançado": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#978b59"
     }
   },
   "presets": {},

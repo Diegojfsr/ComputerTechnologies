@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f31d399d5d701e26",
+        "id": "0e02b0f4b9cf7565",
         "type": "tabs",
         "children": [
           {
-            "id": "fada9517a02ffeda",
+            "id": "802590d82b7b0023",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,12 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02.Kubernetes avançado/17.Como habilitar o JMX para aplicativos Java em execução no cluster do Kubernetes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 17.Como habilitar o JMX para aplicativos Java em execução no cluster do Kubernetes"
             }
           },
           {
@@ -161,43 +162,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fada9517a02ffeda",
+  "active": "1b02efb55613b8a3",
   "lastOpenFiles": [
-    "5.Git and GitHub/1.Create a Repository on GitHub.md",
-    "Sem título.md",
-    "4.Git Commands/1.Useful Git Commands and Basic Concepts.md",
-    "4.Git Commands/67.How to Remove Local Untracked Files From Current Git Working Tree.md",
-    "4.Git Commands/66.How to Use Git Log to Format the Commit History.md",
-    "4.Git Commands/65.Git – Difference Between Merging and Rebasing.md",
-    "4.Git Commands/64.Difference Between Git remote prune, Git prune, on and Git fetch –prune.md",
-    "4.Git Commands/63.Difference Between Git Push Origin and Git Push Origin Master.md",
-    "4.Git Commands/62.How to Add an Empty Directory to a Git Repository.md",
-    "4.Git Commands/61.How to Push Git Branch to Remote.md",
-    "4.Git Commands/60.Delete a Git Branch Locally and Remotely.md",
-    "4.Git Commands/59.Error Searching and Handling in Git.md",
-    "4.Git Commands/58.Sync your fork with a master in GitHub.md",
-    "4.Git Commands/57.Shallow Clone on Git Linux.md",
-    "4.Git Commands/56.Git - Changing History.md",
-    "4.Git Commands/55.Git – Working Tree.md",
-    "4.Git Commands/54.Git – git-show Command Line Utility.md",
-    "4.Git Commands/53.Git - Cherry Pick.md",
-    "4.Git Commands/52.Git – Filtering the Commit History.md",
-    "4.Git Commands/51.Git Subtree.md",
-    "4.Git Commands/50.Git Hooks.md",
-    "4.Git Commands/49.Git Tags.md",
-    "4.Git Commands/48.Recovering Lost Commits in Git.md",
-    "4.Git Commands/47.Git Merge and Merge Conflicts.md",
-    "4.Git Commands/46.Git Checkout and Merge.md",
-    "4.Git Commands/45.Git Prune.md",
+    "02.Kubernetes avançado/16.Ativar depuração remota para aplicativo Java implantado no ambiente Kubernetes.md",
+    "02.Kubernetes avançado/17.Como habilitar o JMX para aplicativos Java em execução no cluster do Kubernetes.md",
+    "02.Kubernetes avançado/15.Instalando o servidor Git privado no cluster K8s com Gitea e AKS.md",
+    "02.Kubernetes avançado/14.Modelo de recursos do Kubernetes (KRM) e como usar o YAML.md",
+    "02.Kubernetes avançado/13.Kubernetes - Injetando ConfigMap em Pods.md",
+    "02.Kubernetes avançado/12.Kubernetes - Injetando ConfigMap como arquivos.md",
+    "02.Kubernetes avançado/11.Kubernetes - ConfigMap de diretórios.md",
+    "02.Kubernetes avançado/10.Kubernetes - Criar ConfigMap a partir de YAML.md",
+    "02.Kubernetes avançado/09.Kubernetes – Criar mapa de configuração a partir de arquivos.md",
+    "02.Kubernetes avançado/08.Kubernetes - ConfigMap.md",
+    "02.Kubernetes avançado/07.Kubernetes – Kubectl Create e Kubectl Apply.md",
+    "02.Kubernetes avançado/06.Kubernetes - Serviço de balanceamento de carga.md",
+    "02.Kubernetes avançado/05.Kubernetes - Kubectl Delete.md",
+    "02.Kubernetes avançado/04.Kubernetes - Comandos Kubectl.md",
+    "02.Kubernetes avançado/03.Kubernetes - Kubectl.md",
+    "02.Kubernetes avançado/02.Kubernetes – Contaminação e Tolerância.md",
+    "02.Kubernetes avançado/01.Kubernetes - API.md",
+    "02.Kubernetes avançado",
+    "01.Noções básicas do Kubernetes/28.Kubernetes – Servidores Físicos vs Máquinas Virtuais vs Contêineres.md",
+    "01.Noções básicas do Kubernetes/27.Como configurar um cluster Kubernetes em uma máquina local usando o minikube.md",
+    "01.Noções básicas do Kubernetes/26.Kubernetes - Working with Secrets.md",
+    "01.Noções básicas do Kubernetes/25.Kubernetes - Secrets.md",
+    "01.Noções básicas do Kubernetes/24.Kubernetes - Volumes.md",
+    "01.Noções básicas do Kubernetes/23.Kubernetes - Deployments.md",
+    "01.Noções básicas do Kubernetes/22.Kubernetes – Diferença entre Replicaset e Replication Controller.md",
+    "01.Noções básicas do Kubernetes/21.Kubernetes - Replication Controller.md",
+    "01.Noções básicas do Kubernetes/20.Kubernetes - Criar vários contêineres em um pod.md",
+    "01.Noções básicas do Kubernetes",
+    "00.Kubernetes Tutorial",
     "11.Git Advanced",
     "10.Git Collaborating",
     "9.Git and GitHub Deployment",
     "8.Git and GitHub in Pycharm",
     "7.Git and GitHub in Android Studio",
     "6.Git and GitHub in VS Code",
-    "5.Git and GitHub",
-    "4.Git Commands",
-    "3.Git Installation",
-    "2.Git Basics"
+    "5.Git and GitHub"
   ]
 }
