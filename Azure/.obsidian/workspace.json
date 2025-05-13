@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "a8017cc2ee0e9476",
+    "type": "split",
+    "children": [
+      {
+        "id": "367518f78e464342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41e6124478d399a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95edef668b657176",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd926b8554709dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b02efb55613b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fcf5211b07f910d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2546ad1fa6d4380f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "1b77f82fc4207f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9588303afd4cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29bd78191eb249e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "dbe9e1e4c0cb097a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
+            }
+          },
+          {
+            "id": "433c1db50f655ade",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8683bbb36e1857f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "41e6124478d399a4",
+  "lastOpenFiles": [
+    "14.Miscellaneous/26.Microsoft Azure – Desenvolvendo modelos do ARM usando o Azure Bicep.md",
+    "14.Miscellaneous/25.Microsoft Azure – Alertas como notificações no telefone.md",
+    "14.Miscellaneous/24.Microsoft Azure – Copiar e colar rapidamente no portal.md",
+    "14.Miscellaneous/23.Microsoft Azure – Usando a Pesquisa Global.md",
+    "14.Miscellaneous/22.Microsoft Azure – Exibir funções delegadas no Azure Lighthouse.md",
+    "14.Miscellaneous/21.Microsoft Azure – Encontrando o serviço de balanceamento de carga certo.md",
+    "14.Miscellaneous/20.Microsoft Azure – Usando o Gerenciamento de Custos no Portal do Azure.md",
+    "14.Miscellaneous/19.Microsoft Azure – Marcação PAL no Azure.md",
+    "14.Miscellaneous/18.Microsoft Azure – Reinicializando um Gateway de Aplicativo.md",
+    "14.Miscellaneous/17.Microsoft Azure – Habilitando logs para solucionar problemas das regras do Firewall do Azure.md",
+    "14.Miscellaneous/16.Microsoft Azure – Verificando seu acesso na assinatura do Azure.md",
+    "14.Miscellaneous/15.Microsoft Azure – Definir configurações de diagnóstico para assinatura do Azure.md",
+    "14.Miscellaneous/14.Microsoft Azure – Abordagem Lift & Shift para migração de infraestrutura.md",
+    "14.Miscellaneous/13.Microsoft Azure – Introdução ao SMART.md",
+    "14.Miscellaneous/12.Microsoft Azure – Roteamento de servidores de aplicativos do Azure usando o PowerShell.md",
+    "14.Miscellaneous/11.Microsoft Azure – Acessando o Cloud Shell do Microsoft Docs.md",
+    "14.Miscellaneous/10.Microsoft Azure – Adicionar Azure Cloud Shell ao VS Code.md",
+    "14.Miscellaneous/09.Microsoft Azure – Usando o parâmetro de tabela na CLI do Azure.md",
+    "14.Miscellaneous/08.Microsoft Azure – Noções básicas sobre os atalhos de teclado do Azure.md",
+    "14.Miscellaneous/07.Microsoft Azure – Trabalhando com temas no Azure.md",
+    "14.Miscellaneous/06.Microsoft Azure – Introdução aos Gêmeos Digitais do Azure.md",
+    "14.Miscellaneous/05.Microsoft Azure – Trabalhando com o Azure Health Bot.md",
+    "14.Miscellaneous/04.Microsoft Mesh.md",
+    "14.Miscellaneous/03.Microsoft Azure – Criar uma iniciativa de política personalizada no Azure.md",
+    "14.Miscellaneous/02.Microsoft Azure – Obter definições de políticas do Azure e definições de iniciativas de política.md",
+    "14.Miscellaneous/01.Microsoft Azure – Dicas de produtividade para o portal do Azure.md",
+    "14.Miscellaneous",
+    "13.Aprendizado de máquina e IoT",
+    "12.DevOps",
+    "11.Databases",
+    "10.Dashboards",
+    "09.Serviços Cognitivos",
+    "08.Recursos",
+    "07.Serviços do Azure/Sem título",
+    "07.Serviços do Azure",
+    "06.Monitorização"
+  ]
+}
