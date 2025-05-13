@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f31d399d5d701e26",
+        "id": "15e88e66f58aa074",
         "type": "tabs",
         "children": [
           {
-            "id": "fada9517a02ffeda",
+            "id": "f5b4d282442edca3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 291.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -90,12 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "12.Miscellaneous/10.Como configurar o Jenkins no contêiner do Docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 10.Como configurar o Jenkins no contêiner do Docker"
             }
           },
           {
@@ -161,43 +162,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fada9517a02ffeda",
+  "active": "1b02efb55613b8a3",
   "lastOpenFiles": [
-    "5.Git and GitHub/1.Create a Repository on GitHub.md",
-    "Sem título.md",
-    "4.Git Commands/1.Useful Git Commands and Basic Concepts.md",
-    "4.Git Commands/67.How to Remove Local Untracked Files From Current Git Working Tree.md",
-    "4.Git Commands/66.How to Use Git Log to Format the Commit History.md",
-    "4.Git Commands/65.Git – Difference Between Merging and Rebasing.md",
-    "4.Git Commands/64.Difference Between Git remote prune, Git prune, on and Git fetch –prune.md",
-    "4.Git Commands/63.Difference Between Git Push Origin and Git Push Origin Master.md",
-    "4.Git Commands/62.How to Add an Empty Directory to a Git Repository.md",
-    "4.Git Commands/61.How to Push Git Branch to Remote.md",
-    "4.Git Commands/60.Delete a Git Branch Locally and Remotely.md",
-    "4.Git Commands/59.Error Searching and Handling in Git.md",
-    "4.Git Commands/58.Sync your fork with a master in GitHub.md",
-    "4.Git Commands/57.Shallow Clone on Git Linux.md",
-    "4.Git Commands/56.Git - Changing History.md",
-    "4.Git Commands/55.Git – Working Tree.md",
-    "4.Git Commands/54.Git – git-show Command Line Utility.md",
-    "4.Git Commands/53.Git - Cherry Pick.md",
-    "4.Git Commands/52.Git – Filtering the Commit History.md",
-    "4.Git Commands/51.Git Subtree.md",
-    "4.Git Commands/50.Git Hooks.md",
-    "4.Git Commands/49.Git Tags.md",
-    "4.Git Commands/48.Recovering Lost Commits in Git.md",
-    "4.Git Commands/47.Git Merge and Merge Conflicts.md",
-    "4.Git Commands/46.Git Checkout and Merge.md",
-    "4.Git Commands/45.Git Prune.md",
-    "11.Git Advanced",
-    "10.Git Collaborating",
-    "9.Git and GitHub Deployment",
-    "8.Git and GitHub in Pycharm",
-    "7.Git and GitHub in Android Studio",
-    "6.Git and GitHub in VS Code",
-    "5.Git and GitHub",
-    "4.Git Commands",
-    "3.Git Installation",
-    "2.Git Basics"
+    "12.Miscellaneous/09.Diferença entre Vagrant e Docker.md",
+    "12.Miscellaneous/10.Como configurar o Jenkins no contêiner do Docker.md",
+    "12.Miscellaneous/08.Integração Contínua do Docker.md",
+    "12.Miscellaneous/07.Implantando WebApps no Docker.md",
+    "12.Miscellaneous/06.Docker Vs Kubernetes.md",
+    "12.Miscellaneous/05.Como dockerizar um aplicativo ReactJS.md",
+    "12.Miscellaneous/04.Como dockerizar um aplicativo ExpressJS.md",
+    "12.Miscellaneous/03.Executando um aplicativo Python usando o Docker.md",
+    "12.Miscellaneous/02.Executando um aplicativo PHP usando o Docker.md",
+    "12.Miscellaneous/01.Executando um aplicativo Java usando o Docker.md",
+    "11.Docker Swarm/02.Diferença entre Kubernetes e Docker Swarm.md",
+    "12.Miscellaneous",
+    "11.Docker Swarm/01.Introdução ao Docker Swarm.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/16.Como fornecer o IP estático para um contêiner do Docker.md",
+    "11.Docker Swarm",
+    "10.Contêineres do Docker e gerenciamento de contêineres/15.Contêiner para NGNIX.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/14.Contêiner para Node.js.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/13.Execute o MongoDB como contêiner.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/12.Copiando arquivos de e para contêineres do Docker.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/11.Como instalar o pacote Linux no contêiner do Docker.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/10.Diferença entre máquinas virtuais e contêineres.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/09.Diferença entre imagens e contêiner.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/08.Volume de montagem dentro do contêiner.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/07.Gerenciar contêineres usando a CLI.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/06.Vinculação de contêiner do Docker.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/05.Enviar uma imagem de contêiner para um repositório do Docker.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/04.Remover contêineres.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres/03.Contêiner do Docker para Node.js.md",
+    "10.Contêineres do Docker e gerenciamento de contêineres",
+    "09.Registro do Docker",
+    "08.Docker Networking",
+    "07.Docker Engine, Storage",
+    "06.Docker Compose",
+    "05.Docker Images",
+    "04.Docker Run and Dockerfile",
+    "03.Comandos do Docker"
   ]
 }

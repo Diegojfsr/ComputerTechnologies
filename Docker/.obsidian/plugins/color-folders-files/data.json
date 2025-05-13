@@ -474,6 +474,97 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#61c445"
+    },
+    "00.Docker Tutorial": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#974c53"
+    },
+    "01.Introdução": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#957254"
+    },
+    "02.Instalação do Docker": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#978b59"
+    },
+    "03.Comandos do Docker": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#4e7f50"
+    },
+    "04.Docker Run and Dockerfile": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#538589"
+    },
+    "05.Docker Images": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#557293"
+    },
+    "06.Docker Compose": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#7a6199"
+    },
+    "07.Docker Engine, Storage": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#eeeded",
+      "backgroundColor": "#906f87"
+    },
+    "08.Docker Networking": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#974c53"
+    },
+    "09.Registro do Docker": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#957254"
+    },
+    "10.Contêineres do Docker e gerenciamento de contêineres": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#978b59"
+    },
+    "11.Docker Swarm": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fffafa",
+      "backgroundColor": "#4e7f50"
+    },
+    "12.Miscellaneous": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f7f7f7",
+      "backgroundColor": "#538589"
     }
   },
   "presets": {},
