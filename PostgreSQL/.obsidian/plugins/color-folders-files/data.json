@@ -488,6 +488,146 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#957254"
+    },
+    "02.Data Types": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#978b59"
+    },
+    "03.Consultando e filtrando dados": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fffafa",
+      "backgroundColor": "#4b784e"
+    },
+    "04.Gerenciando tabelas": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#538589"
+    },
+    "05.Modificando dados": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#4b627e"
+    },
+    "06.Condicionais": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#7a6199"
+    },
+    "07.Fluxo de controle": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#906f87"
+    },
+    "08.Transações e restrições": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "textColor": "#ffffff",
+      "isBold": true,
+      "backgroundColor": "#974c53"
+    },
+    "09.Trabalhando com JOINS & Schemas": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#9a7453"
+    },
+    "10.Funções e permissões": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#978b59"
+    },
+    "11.Trabalhando com Conjuntos": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#efebeb",
+      "backgroundColor": "#4e7f50"
+    },
+    "12.Subconsultas e CTEs": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#538589"
+    },
+    "13.Funções definidas pelo usuário": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#557293"
+    },
+    "14.Funções embutidas importantes": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#7a6199"
+    },
+    "PostgreSQL PL-pgSQL": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#906f87"
+    },
+    "15.PostgreSQL PL-pgSQL": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#906f87"
+    },
+    "16.Variáveis e constantes": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#974c53"
+    },
+    "17.Stored Procedures": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#957153"
+    },
+    "18.Trabalhando com Triggers": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#978b59"
+    },
+    "19.Trabalhando com Views & Indexes": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#4e7f50"
+    },
+    "20.Tratamento de erros e exceções": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#f2f2f2",
+      "backgroundColor": "#538589"
     }
   },
   "presets": {},
