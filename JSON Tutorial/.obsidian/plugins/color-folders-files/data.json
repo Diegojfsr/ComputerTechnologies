@@ -55,6 +55,62 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#906f87"
+    },
+    "00.JSON Tutorial": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f7f7f7",
+      "backgroundColor": "#974c53"
+    },
+    "01.Noções básicas de JSON": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#957254"
+    },
+    "02.Configuração JSON": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fffafa",
+      "backgroundColor": "#978b59"
+    },
+    "03.Differences": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#4e7f50"
+    },
+    "04.Métodos JSON": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#538589"
+    },
+    "05.Miscellaneous": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#557293"
+    },
+    "06.Perguntas importantes": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fffafa",
+      "backgroundColor": "#7a6199"
+    },
+    "07.Ferramentas JSON úteis": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#906f87"
     }
   },
   "presets": {},
