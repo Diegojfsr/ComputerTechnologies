@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f31d399d5d701e26",
+        "id": "54d76f04b58c106a",
         "type": "tabs",
         "children": [
           {
-            "id": "fada9517a02ffeda",
+            "id": "008c91287e5f3d0f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,10 +161,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fada9517a02ffeda",
+  "active": "008c91287e5f3d0f",
   "lastOpenFiles": [
+    "01.PostgreSQL Basics/11.PostgreSQL - Show Databases.md",
+    "01.PostgreSQL Basics/10.PostgreSQL - Size of a Database.md",
+    "01.PostgreSQL Basics/09.PostgreSQL - Copy Database.md",
+    "01.PostgreSQL Basics/08.PostgreSQL - Rename Database.md",
+    "01.PostgreSQL Basics/07.PostgreSQL - DROP DATABASE.md",
+    "01.PostgreSQL Basics/06.PostgreSQL - ALTER DATABASE.md",
+    "01.PostgreSQL Basics/05.PostgreSQL - Create Database.md",
+    "01.PostgreSQL Basics/04.PostgreSQL – Loading a Database.md",
+    "01.PostgreSQL Basics/03.Install PostgreSQL on Mac.md",
+    "01.PostgreSQL Basics/02.Install PostgreSQL on Windows.md",
+    "01.PostgreSQL Basics/01.PostgreSQL - Introduction.md",
+    "00.PostgreSQL Tutorial/01.PostgreSQL Tutorial.md",
+    "01.PostgreSQL Basics",
+    "00.PostgreSQL Tutorial",
     "5.Git and GitHub/1.Create a Repository on GitHub.md",
-    "Sem título.md",
     "4.Git Commands/1.Useful Git Commands and Basic Concepts.md",
     "4.Git Commands/67.How to Remove Local Untracked Files From Current Git Working Tree.md",
     "4.Git Commands/66.How to Use Git Log to Format the Commit History.md",
@@ -178,17 +191,6 @@
     "4.Git Commands/58.Sync your fork with a master in GitHub.md",
     "4.Git Commands/57.Shallow Clone on Git Linux.md",
     "4.Git Commands/56.Git - Changing History.md",
-    "4.Git Commands/55.Git – Working Tree.md",
-    "4.Git Commands/54.Git – git-show Command Line Utility.md",
-    "4.Git Commands/53.Git - Cherry Pick.md",
-    "4.Git Commands/52.Git – Filtering the Commit History.md",
-    "4.Git Commands/51.Git Subtree.md",
-    "4.Git Commands/50.Git Hooks.md",
-    "4.Git Commands/49.Git Tags.md",
-    "4.Git Commands/48.Recovering Lost Commits in Git.md",
-    "4.Git Commands/47.Git Merge and Merge Conflicts.md",
-    "4.Git Commands/46.Git Checkout and Merge.md",
-    "4.Git Commands/45.Git Prune.md",
     "11.Git Advanced",
     "10.Git Collaborating",
     "9.Git and GitHub Deployment",
@@ -196,8 +198,6 @@
     "7.Git and GitHub in Android Studio",
     "6.Git and GitHub in VS Code",
     "5.Git and GitHub",
-    "4.Git Commands",
-    "3.Git Installation",
-    "2.Git Basics"
+    "4.Git Commands"
   ]
 }
