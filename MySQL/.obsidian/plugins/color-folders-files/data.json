@@ -474,6 +474,132 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#61c445"
+    },
+    "00.MySQL Tutorial": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#974c53"
+    },
+    "01.MySQL Basics": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#957254"
+    },
+    "02.MySQL User Management": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#978b59"
+    },
+    "02Gerenciamento de usuários do MySQL": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#978b59"
+    },
+    "02.Gerenciamento de usuários do MySQL": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#e6e6e6",
+      "backgroundColor": "#978b59"
+    },
+    "03.Gerenciando Bancos de Dados": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#faf5f5",
+      "backgroundColor": "#4e7f50"
+    },
+    "04. Gerenciamento Tabelas no MySQL": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#538589"
+    },
+    "05.MySQL Query": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#557293"
+    },
+    "06.MySQL Clauses": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#786097"
+    },
+    "07.MySQL Operators": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#906f87"
+    },
+    "08.MySQL Aggregate Functions": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#974c53"
+    },
+    "09.MySQL Data Constraints": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#957254"
+    },
+    "10.MySQL Joining Data": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#978b59"
+    },
+    "11.MySQL Functions": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fdfcfc",
+      "backgroundColor": "#48724c"
+    },
+    "12.MySQL Views": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#538589"
+    },
+    "13.MySQL Indexes": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#4f6a87"
+    },
+    "14.MySQL Triggers": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#7a6199"
+    },
+    "15.Tópicos diversos do MySQL": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#906f87"
     }
   },
   "presets": {},
