@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "edb6d5bcb9b0bb39",
+        "id": "49bc4ecf6eebb77d",
         "type": "tabs",
         "children": [
           {
-            "id": "a5f6a67cc84ea63e",
+            "id": "9be149aaab8bb901",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01.TypeScript Basics/01.Introdução ao TS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.Introdução ao TS"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 378.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01.TypeScript Basics/01.Introdução ao TS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01.Introdução ao TS"
             }
           },
           {
@@ -161,8 +166,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a5f6a67cc84ea63e",
+  "active": "9be149aaab8bb901",
   "lastOpenFiles": [
+    "01.TypeScript Basics/14. Questionário de aliases de tipo.md",
+    "01.TypeScript Basics/13.TS Type Aliases.md",
+    "01.TypeScript Basics/12.Quiz de Tipos de União e Interseção.md",
+    "01.TypeScript Basics/11.TS Union and Intersection Types.md",
+    "01.TypeScript Basics/10.TS Literal Types.md",
+    "01.TypeScript Basics/09.TS Enums.md",
+    "01.TypeScript Basics/08.Anotação de tipo e questionário de inferência.md",
+    "01.TypeScript Basics/07.TS Type Inference.md",
+    "01.TypeScript Basics/06.TS Type Annotations.md",
+    "01.TypeScript Basics/05.Questionário de Variáveis e Tipos de Dados.md",
+    "01.TypeScript Basics/04.TS DataTypes.md",
+    "01.TypeScript Basics/08. Anotação de tipo e questionário de inferência.md",
+    "01.TypeScript Basics/07.TS Enums.md",
+    "01.TypeScript Basics/03.Variáveis TS.md",
+    "01.TypeScript Basics/02.Questionário de noções básicas do TypeScript.md",
+    "01.TypeScript Basics/01.Introdução ao TS.md",
+    "00.TypeScript Tutorial/01.TypeScript Tutorial.md",
     "13.Projetos Avançados do TypeScript/03.Sistema de gerenciamento de contatos em Typescript.md",
     "13.Projetos Avançados do TypeScript/02.Gerenciamento de tarefas em Typescript.md",
     "13.Projetos Avançados do TypeScript/01.Aplicativo de teste em Typescript.md",
@@ -174,27 +196,10 @@
     "12.Fatos interessantes sobre o TypeScript/02.Fatos interessantes sobre funções no TypeScript.md",
     "12.Fatos interessantes sobre o TypeScript/01.Fatos interessantes sobre os fundamentos do TypeScript.md",
     "12.Fatos interessantes sobre o TypeScript",
-    "11.Configuração e desempenho do TypeScript/02.Ajuste de desempenho para compilação do TypeScript.md",
-    "11.Configuração e desempenho do TypeScript/01.Otimizando tsconfig.json para grandes projetos.md",
     "11.Configuração e desempenho do TypeScript",
-    "10.TypeScript Testing/03.Type-safe Mocking in TypeScript.md",
-    "10.TypeScript Testing/02.Testando Frameworks in TypeScript.md",
-    "10.TypeScript Testing/01.Escrevendo testes de unidade com TypeScript.md",
     "10.TypeScript Testing",
-    "09.Módulos e namespaces TypeScript/03.Namespaces herdados no TypeScript.md",
-    "09.Módulos e namespaces TypeScript/02.Exportações padrão e nomeadas no TypeScript.md",
-    "09.Módulos e namespaces TypeScript/01.Módulos TypeScript.md",
     "09.Módulos e namespaces TypeScript",
-    "08.Tipos avançados de TypeScript/01.TS Type Assertions and Type Guards.md",
-    "08.Tipos avançados de TypeScript/06.Tipos de utilitários TS.md",
-    "08.Tipos avançados de TypeScript/05.Tipos recursivos TS.md",
-    "08.Tipos avançados de TypeScript/04.Tipos literais de modelo TS.md",
-    "08.Tipos avançados de TypeScript/03.Tipos mapeados TS.md",
-    "08.Tipos avançados de TypeScript/02.Tipos condicionais TS.md",
     "08.Tipos avançados de TypeScript",
-    "07.Projetos intermediários do TypeScript/04.Criador de pixel art usando texto datilografado.md",
-    "07.Projetos intermediários do TypeScript/03.Aplicativo detector de velocidade de digitação usando Typescript.md",
-    "07.Projetos intermediários do TypeScript/02.Aplicativo localizador de valor de caractere Unicode usando Typescript.md",
     "07.Projetos intermediários do TypeScript",
     "06.TypeScript Generics",
     "05.Classes TypeScript e Programação Orientada a Objetos",

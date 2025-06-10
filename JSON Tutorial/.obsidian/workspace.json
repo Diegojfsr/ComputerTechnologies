@@ -11,10 +11,14 @@
             "id": "c3683bd3caf1c38d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.JSON Tutorial/01.JSON Tutorial.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.JSON Tutorial"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.JSON Tutorial/01.JSON Tutorial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01.JSON Tutorial"
             }
           },
           {
@@ -161,7 +166,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b02efb55613b8a3",
+  "active": "c3683bd3caf1c38d",
   "lastOpenFiles": [
     "07.Ferramentas JSON úteis/03.Conversor de JSON para XML.md",
     "07.Ferramentas JSON úteis/02.Formatador e validador JSON.md",
