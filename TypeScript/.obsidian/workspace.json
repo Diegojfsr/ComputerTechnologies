@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.TypeScript Basics/01.Introdução ao TS.md",
+                "file": "02.TypeScript Functions/01.Tipos de função TS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Introdução ao TS"
+              "title": "01.Tipos de função TS"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.TypeScript Basics/01.Introdução ao TS.md",
+                "file": "02.TypeScript Functions/01.Tipos de função TS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Introdução ao TS"
+              "title": "Sumário de 01.Tipos de função TS"
             }
           },
           {
@@ -168,6 +168,14 @@
   },
   "active": "9be149aaab8bb901",
   "lastOpenFiles": [
+    "02.TypeScript Functions/06.Sobrecarga da função TS.md",
+    "02.TypeScript Functions/07.Questionário de funções do TypeScript.md",
+    "02.TypeScript Functions/05.TS Arrow Functions with TypeScript.md",
+    "02.TypeScript Functions/04.Parâmetros TS Rest.md",
+    "02.TypeScript Functions/03.Parâmetros opcionais e padrão do TS.md",
+    "02.TypeScript Functions/02.Assinaturas de chamada TS.md",
+    "02.TypeScript Functions/01.Tipos de função TS.md",
+    "01.TypeScript Basics/01.Introdução ao TS.md",
     "01.TypeScript Basics/14. Questionário de aliases de tipo.md",
     "01.TypeScript Basics/13.TS Type Aliases.md",
     "01.TypeScript Basics/12.Quiz de Tipos de União e Interseção.md",
@@ -183,18 +191,10 @@
     "01.TypeScript Basics/07.TS Enums.md",
     "01.TypeScript Basics/03.Variáveis TS.md",
     "01.TypeScript Basics/02.Questionário de noções básicas do TypeScript.md",
-    "01.TypeScript Basics/01.Introdução ao TS.md",
     "00.TypeScript Tutorial/01.TypeScript Tutorial.md",
     "13.Projetos Avançados do TypeScript/03.Sistema de gerenciamento de contatos em Typescript.md",
     "13.Projetos Avançados do TypeScript/02.Gerenciamento de tarefas em Typescript.md",
-    "13.Projetos Avançados do TypeScript/01.Aplicativo de teste em Typescript.md",
     "13.Projetos Avançados do TypeScript",
-    "12.Fatos interessantes sobre o TypeScript/06.Fatos interessantes sobre módulos e namespaces no TypeScript.md",
-    "12.Fatos interessantes sobre o TypeScript/05.Fatos interessantes sobre genéricos no TypeScript.md",
-    "12.Fatos interessantes sobre o TypeScript/04.Fatos interessantes sobre classes e programação orientada a objetos no TypeScript.md",
-    "12.Fatos interessantes sobre o TypeScript/03.Fatos interessantes sobre tipos de objetos e interfaces no TypeScript.md",
-    "12.Fatos interessantes sobre o TypeScript/02.Fatos interessantes sobre funções no TypeScript.md",
-    "12.Fatos interessantes sobre o TypeScript/01.Fatos interessantes sobre os fundamentos do TypeScript.md",
     "12.Fatos interessantes sobre o TypeScript",
     "11.Configuração e desempenho do TypeScript",
     "10.TypeScript Testing",

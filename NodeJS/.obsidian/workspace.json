@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc3a3231ccbdc1fe",
+        "id": "6b3d89f2e0545171",
         "type": "tabs",
         "children": [
           {
-            "id": "76d826b05daa2420",
+            "id": "ae980dc434985304",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 399.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -165,6 +165,8 @@
   },
   "active": "1b02efb55613b8a3",
   "lastOpenFiles": [
+    "01.Noções básicas de Node.js/02.Por que Node.js.md",
+    "01.Noções básicas de Node.js/01.Node.js Introdução.md",
     "24.Node.js Zlib Complete Reference/01.zlib.constants.md",
     "24.Node.js Zlib Complete Reference/31.zlib.unzipSync().md",
     "24.Node.js Zlib Complete Reference/30.zlib.unzip().md",
@@ -189,8 +191,6 @@
     "24.Node.js Zlib Complete Reference/11.zlib.bytesWritten.md",
     "24.Node.js Zlib Complete Reference/10.zlib.gzip().md",
     "24.Node.js Zlib Complete Reference/09.zlib.createInflate().md",
-    "24.Node.js Zlib Complete Reference/08.zlib.createDeflate().md",
-    "24.Node.js Zlib Complete Reference/07.zlib.createInflateRaw().md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
