@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "873e16a60fcfeafb",
+        "id": "871efcada71da038",
         "type": "tabs",
         "children": [
           {
-            "id": "a207c98e0edaa220",
+            "id": "a2294ad421b73fea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01.NET Framework Overview/01.O que é o .NET Framework.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.O que é o .NET Framework"
             }
           }
         ]
@@ -36,8 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rsm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,6 +62,20 @@
               },
               "icon": "lucide-search",
               "title": "Procurar"
+            }
+          },
+          {
+            "id": "e7973939567207e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.Maio/🟢 Neppo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🟢 Neppo"
             }
           },
           {
@@ -74,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 316.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -90,12 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01.NET Framework Overview/01.O que é o .NET Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01.O que é o .NET Framework"
             }
           },
           {
@@ -149,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,43 +180,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a207c98e0edaa220",
+  "active": "a2294ad421b73fea",
   "lastOpenFiles": [
-    "19.Windows Forms/15.FlowLayoutPanel Class.md",
-    "19.Windows Forms/14.GroupBox Class.md",
-    "19.Windows Forms/13.ListBox Class.md",
-    "19.Windows Forms/12.DateTimePicker Class.md",
-    "19.Windows Forms/11.NumericUpDown Class.md",
-    "19.Windows Forms/10.MaskedBox Class.md",
-    "19.Windows Forms/09.RichTextBox Class.md",
-    "19.Windows Forms/08.ToolTip Class.md",
-    "19.Windows Forms/07.ComboBox Control.md",
-    "19.Windows Forms/06.TextBox Control.md",
-    "19.Windows Forms/05.CheckBox Control.md",
-    "19.Windows Forms/04.RadioButton Control.md",
-    "19.Windows Forms/03.Label Control.md",
-    "19.Windows Forms/02.Button Control.md",
-    "19.Windows Forms/01.O que é o Windows Forms (WF).md",
-    "19.Windows Forms",
-    "18.Csharp 8.0/04.Index Struct.md",
-    "18.Csharp 8.0/03.Range Structure.md",
-    "18.Csharp 8.0/02.Range and Indices.md",
-    "18.Csharp 8.0/01.Static Local Function.md",
-    "18.Csharp 8.0",
-    "17.Namespace especializado/05.Classe StringDictionary.md",
-    "17.Namespace especializado/04.Classe HybridDictionary.md",
-    "17.Namespace especializado/03.Classe OrderedDictionary.md",
-    "17.Namespace especializado/02.Classe StringCollection.md",
-    "17.Namespace especializado/01.Classe ListDictionary.md",
-    "17.Namespace especializado",
-    "16.System Namespace/12.UInt64 Struct.md",
-    "16.System Namespace/11.UInt32 Struct.md",
-    "16.System Namespace",
-    "15.Generic Namespace",
-    "14.Collections Namespace",
-    "13.Collections & Generics",
-    "12.Tratamento de exceções",
-    "11.Multithreading",
-    "10.Indexadores e propriedades"
+    "01.NET Framework Overview/01.O que é o .NET Framework.md",
+    "00.C# Tutorial/01.C sharp Tutorial.md",
+    "06.Junho/🟢 Foton.md",
+    "06.Junho/🟢 CNA Idiomas.md",
+    "06.Junho/🟢 Gaudium.md",
+    "06.Junho/🟢 Brenda Silva Analista Recrutamento.md",
+    "06.Junho/🟢 Stefanini Group.md",
+    "06.Junho/🟢 Fiesc.md",
+    "06.Junho/🟢 InfoJobs-EMPRESA CONFIDENCIAL.md",
+    "06.Junho/🟢 Lance Web.md",
+    "06.Junho/🔴 Fiesc.md",
+    "06.Junho/🟢 Lumis Experience.md",
+    "05.Maio/🔴 Softplan.md",
+    "06.Junho/🟢 Stefanini Brasil.md",
+    "06.Junho/🟢 Avenue.md",
+    "06.Junho/🟢 +A Educação.md",
+    "05.Maio/🔴 RSM Brasil.md",
+    "02.Fevereiro/🟢 FIESC.md",
+    "05.Maio/🟢 Universo DOC-Designer.md",
+    "05.Maio/🟢 Drop Agricultura.md",
+    "05.Maio/🟢 OWSE.md",
+    "05.Maio/🟢 Neppo.md",
+    "06.Junho/🟢 Prill Tecnologia.md",
+    "06.Junho/🟢 Nology.md",
+    "05.Maio/🟢 Devnology.md",
+    "06.Junho",
+    "05.Maio/🟢 Multiplicai.md",
+    "1️⃣",
+    "Junho 4️⃣",
+    "05.Maio",
+    "4️⃣",
+    "3️⃣ Marco/Sem título"
   ]
 }
