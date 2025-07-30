@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.TypeScript Generics/06.TypeScript Generics Quiz.md",
+                "file": "07.Projetos intermediários do TypeScript/04.Criador de Pixel Art usando Typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06.TypeScript Generics Quiz"
+              "title": "04.Criador de Pixel Art usando Typescript"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.TypeScript Generics/06.TypeScript Generics Quiz.md",
+                "file": "07.Projetos intermediários do TypeScript/04.Criador de Pixel Art usando Typescript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 06.TypeScript Generics Quiz"
+              "title": "Sumário de 04.Criador de Pixel Art usando Typescript"
             }
           },
           {
@@ -182,12 +182,15 @@
   },
   "active": "0672f00a27820096",
   "lastOpenFiles": [
+    "07.Projetos intermediários do TypeScript/03.Aplicativo detector de velocidade de digitação usando Typescript.md",
+    "07.Projetos intermediários do TypeScript/02.Aplicativo localizador de valor de caractere Unicode usando Typescript.md",
+    "07.Projetos intermediários do TypeScript/01.Gerador de senha aleatória usando Typescript.md",
     "06.TypeScript Generics/05.TS Built-in Generic Types.md",
+    "06.TypeScript Generics/01.Introduction to Generics in TypeScript.md",
+    "06.TypeScript Generics/02.TS Generic Functions.md",
     "06.TypeScript Generics/06.TypeScript Generics Quiz.md",
     "06.TypeScript Generics/04.TS Generic Constraints.md",
     "06.TypeScript Generics/03.TS Generic Classes.md",
-    "06.TypeScript Generics/02.TS Generic Functions.md",
-    "06.TypeScript Generics/01.Introduction to Generics in TypeScript.md",
     "05.Classes TypeScript e Programação Orientada a Objetos/01.Classes e propriedades TS.md",
     "05.Classes TypeScript e Programação Orientada a Objetos/07.TypeScript OOP Quiz.md",
     "05.Classes TypeScript e Programação Orientada a Objetos/06.TS implementando interfaces em classes.md",
@@ -205,9 +208,6 @@
     "06.Junho/🟢 Brenda Silva Analista Recrutamento.md",
     "06.Junho/🟢 Stefanini Group.md",
     "06.Junho/🟢 Fiesc.md",
-    "06.Junho/🟢 InfoJobs-EMPRESA CONFIDENCIAL.md",
-    "06.Junho/🟢 Lance Web.md",
-    "06.Junho/🔴 Fiesc.md",
     "06.Junho",
     "1️⃣",
     "Junho 4️⃣",
