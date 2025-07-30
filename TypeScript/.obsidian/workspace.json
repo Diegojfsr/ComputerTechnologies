@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "871efcada71da038",
+        "id": "365c9bc4490d3357",
         "type": "tabs",
         "children": [
           {
-            "id": "0672f00a27820096",
+            "id": "8ffee5aa2eeeb023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.Classes TypeScript e Programação Orientada a Objetos/07.TypeScript OOP Quiz.md",
+                "file": "09.Módulos e namespaces TypeScript/02.O que é namespace em Typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.TypeScript OOP Quiz"
+              "title": "02.O que é namespace em Typescript"
             }
           },
           {
-            "id": "ea2bccd3f559469e",
+            "id": "d31f3b53f2cbe41e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.Tipos avançados de TypeScript/07.Advanced Types in TypeScript Quiz.md",
+                "file": "09.Módulos e namespaces TypeScript/03.Testing with TypeScript Quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.Advanced Types in TypeScript Quiz"
+              "title": "03.Testing with TypeScript Quiz"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08.Tipos avançados de TypeScript/07.Advanced Types in TypeScript Quiz.md",
+                "file": "09.Módulos e namespaces TypeScript/03.Testing with TypeScript Quiz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 07.Advanced Types in TypeScript Quiz"
+              "title": "Sumário de 03.Testing with TypeScript Quiz"
             }
           },
           {
@@ -195,17 +195,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ea2bccd3f559469e",
+  "active": "d31f3b53f2cbe41e",
   "lastOpenFiles": [
-    "05.Classes TypeScript e Programação Orientada a Objetos/07.TypeScript OOP Quiz.md",
-    "08.Tipos avançados de TypeScript/06.Tipos de utilitários TS.md",
+    "09.Módulos e namespaces TypeScript/02.O que é namespace em Typescript.md",
+    "09.Módulos e namespaces TypeScript/03.Testing with TypeScript Quiz.md",
+    "09.Módulos e namespaces TypeScript/01.Módulos TypeScript.md",
+    "09.Módulos e namespaces TypeScript/02.Exportações padrão e nomeadas no TypeScript.md",
     "08.Tipos avançados de TypeScript/07.Advanced Types in TypeScript Quiz.md",
+    "08.Tipos avançados de TypeScript/01.TS Type Assertions and Type Guards.md",
+    "08.Tipos avançados de TypeScript/06.Tipos de utilitários TS.md",
+    "05.Classes TypeScript e Programação Orientada a Objetos/07.TypeScript OOP Quiz.md",
     "06.TypeScript Generics/06.TypeScript Generics Quiz.md",
     "08.Tipos avançados de TypeScript/05.Tipos recursivos TS.md",
     "08.Tipos avançados de TypeScript/04.Tipos literais de modelo TS.md",
     "08.Tipos avançados de TypeScript/03.Tipos mapeados TS.md",
     "08.Tipos avançados de TypeScript/02.Tipos condicionais TS.md",
-    "08.Tipos avançados de TypeScript/01.TS Type Assertions and Type Guards.md",
     "07.Projetos intermediários do TypeScript/04.Criador de Pixel Art usando Typescript.md",
     "07.Projetos intermediários do TypeScript/03.Aplicativo detector de velocidade de digitação usando Typescript.md",
     "07.Projetos intermediários do TypeScript/02.Aplicativo localizador de valor de caractere Unicode usando Typescript.md",
@@ -219,10 +223,6 @@
     "05.Classes TypeScript e Programação Orientada a Objetos/06.TS implementando interfaces em classes.md",
     "05.Classes TypeScript e Programação Orientada a Objetos/05.Classes e métodos abstratos TS.md",
     "05.Classes TypeScript e Programação Orientada a Objetos/04.TS Getters e Setters.md",
-    "05.Classes TypeScript e Programação Orientada a Objetos/03.Propriedades TS Readonly.md",
-    "05.Classes TypeScript e Programação Orientada a Objetos/02.Modificadores de acesso TS.md",
-    "04.Tipos de objetos e interfaces TypeScript/04.Quiz Tipos de objeto e interfaces no TypeScript.md",
-    "04.Tipos de objetos e interfaces TypeScript/01.Visão geral dos tipos de objeto TS.md",
     "06.Junho",
     "1️⃣",
     "Junho 4️⃣",
