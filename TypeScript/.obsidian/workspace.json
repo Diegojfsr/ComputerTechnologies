@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "365c9bc4490d3357",
+        "id": "249311140d6a8953",
         "type": "tabs",
         "children": [
           {
-            "id": "8ffee5aa2eeeb023",
+            "id": "e2825b61dfc5315a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09.Módulos e namespaces TypeScript/02.O que é namespace em Typescript.md",
+                "file": "11.Configuração e desempenho do TypeScript/01.Ajuste de desempenho para compilação do TypeScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.O que é namespace em Typescript"
+              "title": "01.Ajuste de desempenho para compilação do TypeScript"
             }
           },
           {
-            "id": "d31f3b53f2cbe41e",
+            "id": "36903b83c6b7098b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.TypeScript Testing/03.Type-safe Mocking in TypeScript.md",
+                "file": "11.Configuração e desempenho do TypeScript/02.TypeScript Configuration & Performance Quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.Type-safe Mocking in TypeScript"
-            }
-          },
-          {
-            "id": "050cbbe438c0e85c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.TypeScript Testing/04.Testing with TypeScript Quiz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.Testing with TypeScript Quiz"
+              "title": "02.TypeScript Configuration & Performance Quiz"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.TypeScript Testing/04.Testing with TypeScript Quiz.md",
+                "file": "11.Configuração e desempenho do TypeScript/02.TypeScript Configuration & Performance Quiz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 04.Testing with TypeScript Quiz"
+              "title": "Sumário de 02.TypeScript Configuration & Performance Quiz"
             }
           },
           {
@@ -209,14 +195,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "050cbbe438c0e85c",
+  "active": "36903b83c6b7098b",
   "lastOpenFiles": [
-    "10.TypeScript Testing/03.Type-safe Mocking in TypeScript.md",
+    "11.Configuração e desempenho do TypeScript/01.Ajuste de desempenho para compilação do TypeScript.md",
+    "11.Configuração e desempenho do TypeScript/02.TypeScript Configuration & Performance Quiz.md",
     "10.TypeScript Testing/04.Testing with TypeScript Quiz.md",
+    "11.Configuração e desempenho do TypeScript/01.Otimizando tsconfig.json para grandes projetos.md",
+    "09.Módulos e namespaces TypeScript/02.O que é namespace em Typescript.md",
+    "10.TypeScript Testing/03.Type-safe Mocking in TypeScript.md",
     "10.TypeScript Testing/02.Testando Frameworks in TypeScript.md",
     "10.TypeScript Testing/01.Escrevendo testes de unidade com TypeScript.md",
     "09.Módulos e namespaces TypeScript/03.Testing with TypeScript Quiz.md",
-    "09.Módulos e namespaces TypeScript/02.O que é namespace em Typescript.md",
     "09.Módulos e namespaces TypeScript/01.Módulos TypeScript.md",
     "09.Módulos e namespaces TypeScript/02.Exportações padrão e nomeadas no TypeScript.md",
     "08.Tipos avançados de TypeScript/07.Advanced Types in TypeScript Quiz.md",
@@ -234,9 +223,6 @@
     "07.Projetos intermediários do TypeScript/01.Gerador de senha aleatória usando Typescript.md",
     "06.TypeScript Generics/05.TS Built-in Generic Types.md",
     "06.TypeScript Generics/01.Introduction to Generics in TypeScript.md",
-    "06.TypeScript Generics/02.TS Generic Functions.md",
-    "06.TypeScript Generics/04.TS Generic Constraints.md",
-    "06.TypeScript Generics/03.TS Generic Classes.md",
     "06.Junho",
     "1️⃣",
     "Junho 4️⃣",
