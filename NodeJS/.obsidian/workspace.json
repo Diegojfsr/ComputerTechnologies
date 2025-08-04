@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Noções básicas de Node.js/11.Blocking and Non-Blocking in NodeJS.md",
+                "file": "01.Noções básicas de Node.js/15.Node.js Web Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.Blocking and Non-Blocking in NodeJS"
+              "title": "15.Node.js Web Server"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Noções básicas de Node.js/11.Blocking and Non-Blocking in NodeJS.md",
+                "file": "01.Noções básicas de Node.js/15.Node.js Web Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 11.Blocking and Non-Blocking in NodeJS"
+              "title": "Sumário de 15.Node.js Web Server"
             }
           },
           {
@@ -168,6 +168,10 @@
   },
   "active": "ae980dc434985304",
   "lastOpenFiles": [
+    "01.Noções básicas de Node.js/14.Node.js How to Change NodeJS console Font Color.md",
+    "01.Noções básicas de Node.js/13.Node.js Debugging.md",
+    "01.Noções básicas de Node.js/12.Node.js Callback Concept.md",
+    "01.Noções básicas de Node.js/11.Blocking and Non-Blocking in NodeJS.md",
     "01.Noções básicas de Node.js/10.Node.js Iniciar e executar o servidor.md",
     "01.Noções básicas de Node.js/26.How to Use Session Variables with NodeJS.md",
     "01.Noções básicas de Node.js/25.What is Global Installation of Dependencies in NodeJS.md",
@@ -181,10 +185,6 @@
     "01.Noções básicas de Node.js/17.Node.js --save and --save-dev.md",
     "01.Noções básicas de Node.js/16.Node.js Create and publish NPM packages.md",
     "01.Noções básicas de Node.js/15.Node.js Web Server.md",
-    "01.Noções básicas de Node.js/14.Node.js How to Change NodeJS console Font Color.md",
-    "01.Noções básicas de Node.js/13.Node.js Debugging.md",
-    "01.Noções básicas de Node.js/12.Node.js Callback Concept.md",
-    "01.Noções básicas de Node.js/11.Blocking and Non-Blocking in NodeJS.md",
     "01.Noções básicas de Node.js/09.Node.js módulos.md",
     "01.Noções básicas de Node.js/08.NodeJS REPL (LER, AVALIAR, IMPRIMIR, LOOP).md",
     "01.Noções básicas de Node.js/07.Node.js Primeira Aplicação.md",
