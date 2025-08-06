@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Noções básicas de Node.js/26.How to Use Session Variables with NodeJS.md",
+                "file": "02.Node.js Assert Complete Reference/13.Node.js assert.strictEqual() Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26.How to Use Session Variables with NodeJS"
+              "title": "13.Node.js assert.strictEqual() Function"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Noções básicas de Node.js/26.How to Use Session Variables with NodeJS.md",
+                "file": "02.Node.js Assert Complete Reference/13.Node.js assert.strictEqual() Function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 26.How to Use Session Variables with NodeJS"
+              "title": "Sumário de 13.Node.js assert.strictEqual() Function"
             }
           },
           {
@@ -168,6 +168,20 @@
   },
   "active": "ae980dc434985304",
   "lastOpenFiles": [
+    "02.Node.js Assert Complete Reference/12.Node.js assert.rejects() Function.md",
+    "02.Node.js Assert Complete Reference/13.Node.js assert.strictEqual() Function.md",
+    "02.Node.js Assert Complete Reference/11.Node.js assert.ok() Function.md",
+    "02.Node.js Assert Complete Reference/10.Node.js assert.notEqual() Function.md",
+    "02.Node.js Assert Complete Reference/09.Node.js assert.notDeepStrictEqual() Function.md",
+    "02.Node.js Assert Complete Reference/08.Node.js assert.notDeepEqual() Function.md",
+    "02.Node.js Assert Complete Reference/07.Node.js assert.match() Function.md",
+    "02.Node.js Assert Complete Reference/06.Node.js assert.ifError() Function.md",
+    "02.Node.js Assert Complete Reference/05.Node.js assert.fail() Function.md",
+    "02.Node.js Assert Complete Reference/04.Node.js assert.equal() Function.md",
+    "02.Node.js Assert Complete Reference/03.Node.js assert.doesNotThrow() Function.md",
+    "02.Node.js Assert Complete Reference/02.Node.js assert.deepStrictEqual() Function.md",
+    "02.Node.js Assert Complete Reference/01.Node.js asser() Function.md",
+    "01.Noções básicas de Node.js/26.How to Use Session Variables with NodeJS.md",
     "01.Noções básicas de Node.js/25.What is Global Installation of Dependencies in NodeJS.md",
     "01.Noções básicas de Node.js/24.Node.js Child Process.md",
     "01.Noções básicas de Node.js/23. Restart NodeJS Server Automatically With Nodemon.md",
@@ -180,20 +194,6 @@
     "01.Noções básicas de Node.js/16.Node.js Create and publish NPM packages.md",
     "01.Noções básicas de Node.js/15.Node.js Web Server.md",
     "01.Noções básicas de Node.js/14.Node.js How to Change NodeJS console Font Color.md",
-    "01.Noções básicas de Node.js/13.Node.js Debugging.md",
-    "01.Noções básicas de Node.js/12.Node.js Callback Concept.md",
-    "01.Noções básicas de Node.js/11.Blocking and Non-Blocking in NodeJS.md",
-    "01.Noções básicas de Node.js/10.Node.js Iniciar e executar o servidor.md",
-    "01.Noções básicas de Node.js/26.How to Use Session Variables with NodeJS.md",
-    "01.Noções básicas de Node.js/09.Node.js módulos.md",
-    "01.Noções básicas de Node.js/08.NodeJS REPL (LER, AVALIAR, IMPRIMIR, LOOP).md",
-    "01.Noções básicas de Node.js/07.Node.js Primeira Aplicação.md",
-    "01.Noções básicas de Node.js/06.Node.js básico.md",
-    "01.Noções básicas de Node.js/05.Instalação do Node.js no Windows.md",
-    "01.Noções básicas de Node.js/04.Instalação do Node.js no Linux.md",
-    "01.Noções básicas de Node.js/03.Node.js NPM (Node.jsPackage Manager).md",
-    "01.Noções básicas de Node.js/02.Por que Node.js.md",
-    "01.Noções básicas de Node.js/01.Node.js Introdução.md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
