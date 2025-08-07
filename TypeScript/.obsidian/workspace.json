@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.TypeScript Basics/01.Introdução ao TS.md",
+                "file": "01.TypeScript Basics/14. Questionário de aliases de tipo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Introdução ao TS"
+              "title": "14. Questionário de aliases de tipo"
             }
           }
         ]
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.TypeScript Basics/01.Introdução ao TS.md",
+                "file": "01.TypeScript Basics/14. Questionário de aliases de tipo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Introdução ao TS"
+              "title": "Sumário de 14. Questionário de aliases de tipo"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "275c867d96743d1d",
   "lastOpenFiles": [
+    "01.TypeScript Basics/01.Introdução ao TS.md",
     "13.Projetos Avançados do TypeScript/03.Contact Management System Using TypeScript.md",
     "13.Projetos Avançados do TypeScript/02.Task Management App Using TypeScript.md",
     "13.Projetos Avançados do TypeScript/01.Quiz App Using Typescript.md",
@@ -207,7 +208,6 @@
     "08.Tipos avançados de TypeScript/06.Tipos de utilitários TS.md",
     "05.Classes TypeScript e Programação Orientada a Objetos/07.TypeScript OOP Quiz.md",
     "06.TypeScript Generics/06.TypeScript Generics Quiz.md",
-    "08.Tipos avançados de TypeScript/05.Tipos recursivos TS.md",
     "06.Junho",
     "1️⃣",
     "Junho 4️⃣",

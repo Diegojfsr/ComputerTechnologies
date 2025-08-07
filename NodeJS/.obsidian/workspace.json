@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Node.js Assert Complete Reference/13.Node.js assert.strictEqual() Function.md",
+                "file": "03.Node.js Buffer Complete Reference/05.Node.js Buffer.equals() Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.Node.js assert.strictEqual() Function"
+              "title": "05.Node.js Buffer.equals() Method"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Node.js Assert Complete Reference/13.Node.js assert.strictEqual() Function.md",
+                "file": "03.Node.js Buffer Complete Reference/05.Node.js Buffer.equals() Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 13.Node.js assert.strictEqual() Function"
+              "title": "Sumário de 05.Node.js Buffer.equals() Method"
             }
           },
           {
@@ -168,8 +168,12 @@
   },
   "active": "ae980dc434985304",
   "lastOpenFiles": [
-    "02.Node.js Assert Complete Reference/12.Node.js assert.rejects() Function.md",
+    "03.Node.js Buffer Complete Reference/04.Node.js Buffer.alloc() Method.md",
+    "03.Node.js Buffer Complete Reference/03.Nodejs Buffer.compare() Method.md",
+    "03.Node.js Buffer Complete Reference/02.Node.js Buffer.includes() Method.md",
+    "03.Node.js Buffer Complete Reference/01.Node.js Buffer.copy() Method.md",
     "02.Node.js Assert Complete Reference/13.Node.js assert.strictEqual() Function.md",
+    "02.Node.js Assert Complete Reference/12.Node.js assert.rejects() Function.md",
     "02.Node.js Assert Complete Reference/11.Node.js assert.ok() Function.md",
     "02.Node.js Assert Complete Reference/10.Node.js assert.notEqual() Function.md",
     "02.Node.js Assert Complete Reference/09.Node.js assert.notDeepStrictEqual() Function.md",
@@ -190,10 +194,6 @@
     "01.Noções básicas de Node.js/20.Node.js Promise Chaining.md",
     "01.Noções básicas de Node.js/19.Node.js Frameworks.md",
     "01.Noções básicas de Node.js/18.Node.js Event Loop.md",
-    "01.Noções básicas de Node.js/17.Node.js --save and --save-dev.md",
-    "01.Noções básicas de Node.js/16.Node.js Create and publish NPM packages.md",
-    "01.Noções básicas de Node.js/15.Node.js Web Server.md",
-    "01.Noções básicas de Node.js/14.Node.js How to Change NodeJS console Font Color.md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
