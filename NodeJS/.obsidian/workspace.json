@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Node.js Buffer Complete Reference/05.Node.js Buffer.equals() Method.md",
+                "file": "03.Node.js Buffer Complete Reference/25.Node.js Buffer.readUInt32BE() Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.Node.js Buffer.equals() Method"
+              "title": "25.Node.js Buffer.readUInt32BE() Method"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Node.js Buffer Complete Reference/05.Node.js Buffer.equals() Method.md",
+                "file": "03.Node.js Buffer Complete Reference/25.Node.js Buffer.readUInt32BE() Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 05.Node.js Buffer.equals() Method"
+              "title": "Sumário de 25.Node.js Buffer.readUInt32BE() Method"
             }
           },
           {
@@ -168,32 +168,32 @@
   },
   "active": "ae980dc434985304",
   "lastOpenFiles": [
+    "03.Node.js Buffer Complete Reference/24.Node.js Buffer.writeUInt16BE() Method.md",
+    "03.Node.js Buffer Complete Reference/23.Node.js Buffer.writeUIntLE() Method.md",
+    "03.Node.js Buffer Complete Reference/22.Node.js Buffer.writeFloatBE() Method.md",
+    "03.Node.js Buffer Complete Reference/21.Node.js Buffer.readUInt16LE() Method.md",
+    "03.Node.js Buffer Complete Reference/20.Node.js Buffer.writeUInt16LE() Method.md",
+    "03.Node.js Buffer Complete Reference/19.Node.js Buffer.readUInt16BE() Method.md",
+    "03.Node.js Buffer Complete Reference/18.Node.js Buffer.swap32() Method.md",
+    "03.Node.js Buffer Complete Reference/17.Node.js Buffer.isEncoding() Method.md",
+    "03.Node.js Buffer Complete Reference/16.Node.js Buffer.writeIntLE() Method.md",
+    "03.Node.js Buffer Complete Reference/15.Node.js Buffer.readFloatLE() Method.md",
+    "03.Node.js Buffer Complete Reference/14.Node.js Buffer.readInt32LE() Method.md",
+    "03.Node.js Buffer Complete Reference/13.Node.js Buffer.writeUInt32BE() Method.md",
+    "03.Node.js Buffer Complete Reference/12.Node.js Buffer.allocUnsafeSlow() Method.md",
+    "03.Node.js Buffer Complete Reference/11.Node.js Buffer.indexOf() Method.md",
+    "03.Node.js Buffer Complete Reference/10.Node.js Buffer.readUInt8() Method.md",
+    "03.Node.js Buffer Complete Reference/09.Node.js Buffer.readIntLE() Method.md",
+    "03.Node.js Buffer Complete Reference/08.Node.js Buffer.write() Method.md",
+    "03.Node.js Buffer Complete Reference/07.Node.js Buffer.readIntBE() Method.md",
+    "03.Node.js Buffer Complete Reference/06.Node.js Buffer.subarray() Method.md",
+    "03.Node.js Buffer Complete Reference/05.Node.js Buffer.equals() Method.md",
     "03.Node.js Buffer Complete Reference/04.Node.js Buffer.alloc() Method.md",
     "03.Node.js Buffer Complete Reference/03.Nodejs Buffer.compare() Method.md",
     "03.Node.js Buffer Complete Reference/02.Node.js Buffer.includes() Method.md",
     "03.Node.js Buffer Complete Reference/01.Node.js Buffer.copy() Method.md",
     "02.Node.js Assert Complete Reference/13.Node.js assert.strictEqual() Function.md",
     "02.Node.js Assert Complete Reference/12.Node.js assert.rejects() Function.md",
-    "02.Node.js Assert Complete Reference/11.Node.js assert.ok() Function.md",
-    "02.Node.js Assert Complete Reference/10.Node.js assert.notEqual() Function.md",
-    "02.Node.js Assert Complete Reference/09.Node.js assert.notDeepStrictEqual() Function.md",
-    "02.Node.js Assert Complete Reference/08.Node.js assert.notDeepEqual() Function.md",
-    "02.Node.js Assert Complete Reference/07.Node.js assert.match() Function.md",
-    "02.Node.js Assert Complete Reference/06.Node.js assert.ifError() Function.md",
-    "02.Node.js Assert Complete Reference/05.Node.js assert.fail() Function.md",
-    "02.Node.js Assert Complete Reference/04.Node.js assert.equal() Function.md",
-    "02.Node.js Assert Complete Reference/03.Node.js assert.doesNotThrow() Function.md",
-    "02.Node.js Assert Complete Reference/02.Node.js assert.deepStrictEqual() Function.md",
-    "02.Node.js Assert Complete Reference/01.Node.js asser() Function.md",
-    "01.Noções básicas de Node.js/26.How to Use Session Variables with NodeJS.md",
-    "01.Noções básicas de Node.js/25.What is Global Installation of Dependencies in NodeJS.md",
-    "01.Noções básicas de Node.js/24.Node.js Child Process.md",
-    "01.Noções básicas de Node.js/23. Restart NodeJS Server Automatically With Nodemon.md",
-    "01.Noções básicas de Node.js/22.Node.js Global Objects.md",
-    "01.Noções básicas de Node.js/21.Node.js fs.link() Method.md",
-    "01.Noções básicas de Node.js/20.Node.js Promise Chaining.md",
-    "01.Noções básicas de Node.js/19.Node.js Frameworks.md",
-    "01.Noções básicas de Node.js/18.Node.js Event Loop.md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
