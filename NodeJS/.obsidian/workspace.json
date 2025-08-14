@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Node.js Buffer Complete Reference/30.Node.js Buffer.values() Method.md",
+                "file": "03.Node.js Buffer Complete Reference/40.Node.js Buffer.isBuffer() Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30.Node.js Buffer.values() Method"
+              "title": "40.Node.js Buffer.isBuffer() Method"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Node.js Buffer Complete Reference/30.Node.js Buffer.values() Method.md",
+                "file": "03.Node.js Buffer Complete Reference/40.Node.js Buffer.isBuffer() Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 30.Node.js Buffer.values() Method"
+              "title": "Sumário de 40.Node.js Buffer.isBuffer() Method"
             }
           },
           {
@@ -168,8 +168,17 @@
   },
   "active": "ae980dc434985304",
   "lastOpenFiles": [
-    "03.Node.js Buffer Complete Reference/29.Node.js Buffer.writeUInt8() Method.md",
+    "03.Node.js Buffer Complete Reference/39.Node.js Buffer.writeUInt32LE() Method.md",
+    "03.Node.js Buffer Complete Reference/38.Node.js Buffer.writeDoubleBE() Method.md",
+    "03.Node.js Buffer Complete Reference/37.Node.js Buffer.swap16() Method.md",
+    "03.Node.js Buffer Complete Reference/36.Node.js Buffer.readUIntBE() Method.md",
+    "03.Node.js Buffer Complete Reference/35.Node.js Buffer.fill() Method.md",
+    "03.Node.js Buffer Complete Reference/34.Node.js Buffer.concat() Method.md",
+    "03.Node.js Buffer Complete Reference/33.Node.js Buffer.readInt8() Method.md",
+    "03.Node.js Buffer Complete Reference/32.Node.js Buffer.writeUIntBE() Method.md",
+    "03.Node.js Buffer Complete Reference/31.Node.js Buffer.from() Method.md",
     "03.Node.js Buffer Complete Reference/30.Node.js Buffer.values() Method.md",
+    "03.Node.js Buffer Complete Reference/29.Node.js Buffer.writeUInt8() Method.md",
     "03.Node.js Buffer Complete Reference/28.Node.js Buffer.toString() Method.md",
     "03.Node.js Buffer Complete Reference/27.Node.js Buffer.readInt16LE() Method.md",
     "03.Node.js Buffer Complete Reference/26.Node.js Buffer.writeFloatLE() Method.md",
@@ -185,15 +194,6 @@
     "03.Node.js Buffer Complete Reference/16.Node.js Buffer.writeIntLE() Method.md",
     "03.Node.js Buffer Complete Reference/15.Node.js Buffer.readFloatLE() Method.md",
     "03.Node.js Buffer Complete Reference/14.Node.js Buffer.readInt32LE() Method.md",
-    "03.Node.js Buffer Complete Reference/13.Node.js Buffer.writeUInt32BE() Method.md",
-    "03.Node.js Buffer Complete Reference/12.Node.js Buffer.allocUnsafeSlow() Method.md",
-    "03.Node.js Buffer Complete Reference/11.Node.js Buffer.indexOf() Method.md",
-    "03.Node.js Buffer Complete Reference/10.Node.js Buffer.readUInt8() Method.md",
-    "03.Node.js Buffer Complete Reference/09.Node.js Buffer.readIntLE() Method.md",
-    "03.Node.js Buffer Complete Reference/08.Node.js Buffer.write() Method.md",
-    "03.Node.js Buffer Complete Reference/07.Node.js Buffer.readIntBE() Method.md",
-    "03.Node.js Buffer Complete Reference/06.Node.js Buffer.subarray() Method.md",
-    "03.Node.js Buffer Complete Reference/05.Node.js Buffer.equals() Method.md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
