@@ -11,10 +11,14 @@
             "id": "87d1a2caae341fbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00.JavaScript Tutorial/01.JavaScript Tutorial.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "01.JavaScript Tutorial"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.JavaScript Tutorial/01.JavaScript Tutorial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 01.JavaScript Tutorial"
             }
           },
           {
@@ -163,6 +168,13 @@
   },
   "active": "87d1a2caae341fbd",
   "lastOpenFiles": [
+    "03.Projetos para iniciantes em JavaScript/07.Valor de caractere Unicode.md",
+    "03.Projetos para iniciantes em JavaScript/06.Aplicativo validador de e-mail.md",
+    "03.Projetos para iniciantes em JavaScript/05.Carrossel JavaScript.md",
+    "03.Projetos para iniciantes em JavaScript/04.Aplicativo verificador de palíndromo.md",
+    "03.Projetos para iniciantes em JavaScript/03.Mostrar e ocultar senha.md",
+    "03.Projetos para iniciantes em JavaScript/02.Verificador de números primos.md",
+    "03.Projetos para iniciantes em JavaScript/01.Aplicação contrária.md",
     "16.Perguntas da entrevista/09.JavaScript Output Based Interview Questions.md",
     "16.Perguntas da entrevista/08.Top 50 Array Coding Problems for Interviews.md",
     "16.Perguntas da entrevista/07.JavaScript Object Interview Questions.md",
@@ -184,14 +196,7 @@
     "14.Projetos Avançados de JavaScript/07.Gerador de código QR.md",
     "14.Projetos Avançados de JavaScript/06.Jogo da velha.md",
     "14.Projetos Avançados de JavaScript/05.Jogo do Mundo do Dragão.md",
-    "14.Projetos Avançados de JavaScript/04.Agendador de Tarefas.md",
-    "14.Projetos Avançados de JavaScript/03.Painel de administração responsivo.md",
-    "14.Projetos Avançados de JavaScript/02.Comentários de bate-papo aninhados.md",
-    "14.Projetos Avançados de JavaScript/01.Sistema de gerenciamento de banco de dados de funcionários.md",
     "14.Projetos Avançados de JavaScript",
-    "13.Fatos interessantes/09.JavaScript completo.md",
-    "13.Fatos interessantes/08.Object.md",
-    "13.Fatos interessantes/07.Arrays.md",
     "13.Fatos interessantes",
     "12.Teste e otimização de desempenho",
     "11.Tratamento de exceções e erros",
