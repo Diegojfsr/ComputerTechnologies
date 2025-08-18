@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Node.js Buffer Complete Reference/69.Node.js Buffer.writeBigUInt64LE() Method.md",
+                "file": "03.Node.js Buffer Complete Reference/73.Node.js Buffer.readBigUInt64BE() Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "69.Node.js Buffer.writeBigUInt64LE() Method"
+              "title": "73.Node.js Buffer.readBigUInt64BE() Method"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Node.js Buffer Complete Reference/69.Node.js Buffer.writeBigUInt64LE() Method.md",
+                "file": "03.Node.js Buffer Complete Reference/73.Node.js Buffer.readBigUInt64BE() Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 69.Node.js Buffer.writeBigUInt64LE() Method"
+              "title": "Sumário de 73.Node.js Buffer.readBigUInt64BE() Method"
             }
           },
           {
@@ -168,6 +168,10 @@
   },
   "active": "ae980dc434985304",
   "lastOpenFiles": [
+    "03.Node.js Buffer Complete Reference/72.Node.js Buffer.writeBigUInt64BE() Method.md",
+    "03.Node.js Buffer Complete Reference/71.Node.js Buffer.readBigInt64LE() Method.md",
+    "03.Node.js Buffer Complete Reference/70.Node.js Buffer.writeBigInt64LE() Method.md",
+    "03.Node.js Buffer Complete Reference/69.Node.js Buffer.writeBigUInt64LE() Method.md",
     "03.Node.js Buffer Complete Reference/68.Node.js Buffer.readBigUInt64LE() Method.md",
     "03.Node.js Buffer Complete Reference/67.Node.js Buffer.readBigInt64BE() Method.md",
     "03.Node.js Buffer Complete Reference/66.Node.js Buffer.writeBigInt64BE() Method.md",
@@ -190,10 +194,6 @@
     "03.Node.js Buffer Complete Reference/48.Node.js Buffer.entries() Method.md",
     "03.Node.js Buffer Complete Reference/47.Node.js Buffer.readInt16BE() Method.md",
     "03.Node.js Buffer Complete Reference/46.Node.js Buffer.writeInt16BE() Method.md",
-    "03.Node.js Buffer Complete Reference/45.Node.js Buffer.swap64() Method.md",
-    "03.Node.js Buffer Complete Reference/44.Node.js Buffer.writeIntBE() Method.md",
-    "03.Node.js Buffer Complete Reference/43.Node.js Buffer.readUInt32LE() Method.md",
-    "03.Node.js Buffer Complete Reference/42.Node.js Buffer.writeInt32LE() Method.md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
