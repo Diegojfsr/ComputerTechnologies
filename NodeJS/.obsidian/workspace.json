@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Node.js Buffer Complete Reference/40.Node.js Buffer.isBuffer() Method.md",
+                "file": "03.Node.js Buffer Complete Reference/50.Node.js Buffer.writeDoubleLE() Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "40.Node.js Buffer.isBuffer() Method"
+              "title": "50.Node.js Buffer.writeDoubleLE() Method"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Node.js Buffer Complete Reference/40.Node.js Buffer.isBuffer() Method.md",
+                "file": "03.Node.js Buffer Complete Reference/50.Node.js Buffer.writeDoubleLE() Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 40.Node.js Buffer.isBuffer() Method"
+              "title": "Sumário de 50.Node.js Buffer.writeDoubleLE() Method"
             }
           },
           {
@@ -168,6 +168,18 @@
   },
   "active": "ae980dc434985304",
   "lastOpenFiles": [
+    "03.Node.js Buffer Complete Reference/51.Node.js Buffer.writeInt16LE() Method.md",
+    "03.Node.js Buffer Complete Reference/50.Node.js Buffer.writeDoubleLE() Method.md",
+    "03.Node.js Buffer Complete Reference/49.Node.js Buffer.readDoubleBE() Method.md",
+    "03.Node.js Buffer Complete Reference/48.Node.js Buffer.entries() Method.md",
+    "03.Node.js Buffer Complete Reference/47.Node.js Buffer.readInt16BE() Method.md",
+    "03.Node.js Buffer Complete Reference/46.Node.js Buffer.writeInt16BE() Method.md",
+    "03.Node.js Buffer Complete Reference/45.Node.js Buffer.swap64() Method.md",
+    "03.Node.js Buffer Complete Reference/44.Node.js Buffer.writeIntBE() Method.md",
+    "03.Node.js Buffer Complete Reference/43.Node.js Buffer.readUInt32LE() Method.md",
+    "03.Node.js Buffer Complete Reference/42.Node.js Buffer.writeInt32LE() Method.md",
+    "03.Node.js Buffer Complete Reference/41.Node.js Buffer.keys() Method.md",
+    "03.Node.js Buffer Complete Reference/40.Node.js Buffer.isBuffer() Method.md",
     "03.Node.js Buffer Complete Reference/39.Node.js Buffer.writeUInt32LE() Method.md",
     "03.Node.js Buffer Complete Reference/38.Node.js Buffer.writeDoubleBE() Method.md",
     "03.Node.js Buffer Complete Reference/37.Node.js Buffer.swap16() Method.md",
@@ -182,18 +194,6 @@
     "03.Node.js Buffer Complete Reference/28.Node.js Buffer.toString() Method.md",
     "03.Node.js Buffer Complete Reference/27.Node.js Buffer.readInt16LE() Method.md",
     "03.Node.js Buffer Complete Reference/26.Node.js Buffer.writeFloatLE() Method.md",
-    "03.Node.js Buffer Complete Reference/25.Node.js Buffer.readUInt32BE() Method.md",
-    "03.Node.js Buffer Complete Reference/24.Node.js Buffer.writeUInt16BE() Method.md",
-    "03.Node.js Buffer Complete Reference/23.Node.js Buffer.writeUIntLE() Method.md",
-    "03.Node.js Buffer Complete Reference/22.Node.js Buffer.writeFloatBE() Method.md",
-    "03.Node.js Buffer Complete Reference/21.Node.js Buffer.readUInt16LE() Method.md",
-    "03.Node.js Buffer Complete Reference/20.Node.js Buffer.writeUInt16LE() Method.md",
-    "03.Node.js Buffer Complete Reference/19.Node.js Buffer.readUInt16BE() Method.md",
-    "03.Node.js Buffer Complete Reference/18.Node.js Buffer.swap32() Method.md",
-    "03.Node.js Buffer Complete Reference/17.Node.js Buffer.isEncoding() Method.md",
-    "03.Node.js Buffer Complete Reference/16.Node.js Buffer.writeIntLE() Method.md",
-    "03.Node.js Buffer Complete Reference/15.Node.js Buffer.readFloatLE() Method.md",
-    "03.Node.js Buffer Complete Reference/14.Node.js Buffer.readInt32LE() Method.md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
