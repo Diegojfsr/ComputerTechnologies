@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.Node.js Buffer Complete Reference/73.Node.js Buffer.readBigUInt64BE() Method.md",
+                "file": "04.Node.js Console Complete Reference/01.Node.js console.assert() Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "73.Node.js Buffer.readBigUInt64BE() Method"
+              "title": "01.Node.js console.assert() Method"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.Node.js Buffer Complete Reference/73.Node.js Buffer.readBigUInt64BE() Method.md",
+                "file": "04.Node.js Console Complete Reference/01.Node.js console.assert() Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 73.Node.js Buffer.readBigUInt64BE() Method"
+              "title": "Sumário de 01.Node.js console.assert() Method"
             }
           },
           {
@@ -168,6 +168,25 @@
   },
   "active": "ae980dc434985304",
   "lastOpenFiles": [
+    "04.Node.js Console Complete Reference/18.Node.js console.warn() Function.md",
+    "04.Node.js Console Complete Reference/17.Node.js console.trace() Method.md",
+    "04.Node.js Console Complete Reference/16.Node.js console.timeEnd() Method.md",
+    "04.Node.js Console Complete Reference/15.Node.js console.timeStamp() Method.md",
+    "04.Node.js Console Complete Reference/14.Node.js console.profileEnd() Method.md",
+    "04.Node.js Console Complete Reference/13.Node.js console.profile() Method.md",
+    "04.Node.js Console Complete Reference/12.Node.js new Console() Method.md",
+    "04.Node.js Console Complete Reference/11.Node.js console.table() Method.md",
+    "04.Node.js Console Complete Reference/10.Node.js console.time() Method.md",
+    "04.Node.js Console Complete Reference/09.Node.js console.timeLog() Method.md",
+    "04.Node.js Console Complete Reference/08.Node.js console.info() Method.md",
+    "04.Node.js Console Complete Reference/07.Node.js console.error() Function.md",
+    "04.Node.js Console Complete Reference/06.Node.js console.dir() Method.md",
+    "04.Node.js Console Complete Reference/05.Node.js console.debug() Method.md",
+    "04.Node.js Console Complete Reference/04.Node.js console.countReset() Method.md",
+    "04.Node.js Console Complete Reference/03.Node.js console.count() Method.md",
+    "04.Node.js Console Complete Reference/02.Node js console.clear() Method.md",
+    "04.Node.js Console Complete Reference/01.Node.js console.assert() Method.md",
+    "03.Node.js Buffer Complete Reference/73.Node.js Buffer.readBigUInt64BE() Method.md",
     "03.Node.js Buffer Complete Reference/72.Node.js Buffer.writeBigUInt64BE() Method.md",
     "03.Node.js Buffer Complete Reference/71.Node.js Buffer.readBigInt64LE() Method.md",
     "03.Node.js Buffer Complete Reference/70.Node.js Buffer.writeBigInt64LE() Method.md",
@@ -175,25 +194,6 @@
     "03.Node.js Buffer Complete Reference/68.Node.js Buffer.readBigUInt64LE() Method.md",
     "03.Node.js Buffer Complete Reference/67.Node.js Buffer.readBigInt64BE() Method.md",
     "03.Node.js Buffer Complete Reference/66.Node.js Buffer.writeBigInt64BE() Method.md",
-    "03.Node.js Buffer Complete Reference/65.Node.js Buffer.length Property.md",
-    "03.Node.js Buffer Complete Reference/64.Node.js Buffer.buffer Property.md",
-    "03.Node.js Buffer Complete Reference/62.Node.js Buffer.kMaxLength Property.md",
-    "03.Node.js Buffer Complete Reference/61.Node.js Buffer.byteOffset Property.md",
-    "03.Node.js Buffer Complete Reference/60.Node.js Buffer.lastIndexOf() Method.md",
-    "03.Node.js Buffer Complete Reference/59.Node.js Buffer.toJSON() Method.md",
-    "03.Node.js Buffer Complete Reference/58.Node.js Buffer.readUIntLE() Method.md",
-    "03.Node.js Buffer Complete Reference/57.Node.js Buffer.writeInt8() Method.md",
-    "03.Node.js Buffer Complete Reference/56.Node.js Buffer.writeInt32BE() Method.md",
-    "03.Node.js Buffer Complete Reference/55.Node.js Buffer.readFloatBE() Method.md",
-    "03.Node.js Buffer Complete Reference/54.Node.js Buffer.byteLength() Method.md",
-    "03.Node.js Buffer Complete Reference/53.Node.js Buffer.readDoubleLE() Method.md",
-    "03.Node.js Buffer Complete Reference/52.Node.js Buffer.poolSize Property.md",
-    "03.Node.js Buffer Complete Reference/51.Node.js Buffer.writeInt16LE() Method.md",
-    "03.Node.js Buffer Complete Reference/50.Node.js Buffer.writeDoubleLE() Method.md",
-    "03.Node.js Buffer Complete Reference/49.Node.js Buffer.readDoubleBE() Method.md",
-    "03.Node.js Buffer Complete Reference/48.Node.js Buffer.entries() Method.md",
-    "03.Node.js Buffer Complete Reference/47.Node.js Buffer.readInt16BE() Method.md",
-    "03.Node.js Buffer Complete Reference/46.Node.js Buffer.writeInt16BE() Method.md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
