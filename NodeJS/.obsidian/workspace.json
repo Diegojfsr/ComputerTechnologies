@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.Node.js Console Complete Reference/01.Node.js console.assert() Method.md",
+                "file": "05.Node.js Crypto Complete Reference/10.Node.js crypto.createHmac() Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Node.js console.assert() Method"
+              "title": "10.Node.js crypto.createHmac() Method"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04.Node.js Console Complete Reference/01.Node.js console.assert() Method.md",
+                "file": "05.Node.js Crypto Complete Reference/10.Node.js crypto.createHmac() Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01.Node.js console.assert() Method"
+              "title": "Sumário de 10.Node.js crypto.createHmac() Method"
             }
           },
           {
@@ -158,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -168,6 +169,16 @@
   },
   "active": "ae980dc434985304",
   "lastOpenFiles": [
+    "05.Node.js Crypto Complete Reference/09.Node.js crypto.createHash() Method.md",
+    "05.Node.js Crypto Complete Reference/08.Node.js crypto.pbkdf2() Method.md",
+    "05.Node.js Crypto Complete Reference/07.Node.js crypto.getDiffieHellman() Method.md",
+    "05.Node.js Crypto Complete Reference/06.Node.js crypto.createCipheriv() Method.md",
+    "05.Node.js Crypto Complete Reference/05.Node.js crypto.createDecipheriv() Method.md",
+    "05.Node.js Crypto Complete Reference/04.Node.js crypto.createECDH() Method.md",
+    "05.Node.js Crypto Complete Reference/03.Node.js crypto.getCiphers() Method.md",
+    "05.Node.js Crypto Complete Reference/02.Node.js cipher.update() Method.md",
+    "05.Node.js Crypto Complete Reference/01.Node.js cipher.final() Method.md",
+    "04.Node.js Console Complete Reference/01.Node.js console.assert() Method.md",
     "04.Node.js Console Complete Reference/18.Node.js console.warn() Function.md",
     "04.Node.js Console Complete Reference/17.Node.js console.trace() Method.md",
     "04.Node.js Console Complete Reference/16.Node.js console.timeEnd() Method.md",
@@ -184,16 +195,6 @@
     "04.Node.js Console Complete Reference/05.Node.js console.debug() Method.md",
     "04.Node.js Console Complete Reference/04.Node.js console.countReset() Method.md",
     "04.Node.js Console Complete Reference/03.Node.js console.count() Method.md",
-    "04.Node.js Console Complete Reference/02.Node js console.clear() Method.md",
-    "04.Node.js Console Complete Reference/01.Node.js console.assert() Method.md",
-    "03.Node.js Buffer Complete Reference/73.Node.js Buffer.readBigUInt64BE() Method.md",
-    "03.Node.js Buffer Complete Reference/72.Node.js Buffer.writeBigUInt64BE() Method.md",
-    "03.Node.js Buffer Complete Reference/71.Node.js Buffer.readBigInt64LE() Method.md",
-    "03.Node.js Buffer Complete Reference/70.Node.js Buffer.writeBigInt64LE() Method.md",
-    "03.Node.js Buffer Complete Reference/69.Node.js Buffer.writeBigUInt64LE() Method.md",
-    "03.Node.js Buffer Complete Reference/68.Node.js Buffer.readBigUInt64LE() Method.md",
-    "03.Node.js Buffer Complete Reference/67.Node.js Buffer.readBigInt64BE() Method.md",
-    "03.Node.js Buffer Complete Reference/66.Node.js Buffer.writeBigInt64BE() Method.md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
