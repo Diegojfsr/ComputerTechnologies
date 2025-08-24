@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05.Node.js Crypto Complete Reference/10.Node.js crypto.createHmac() Method.md",
+                "file": "05.Node.js Crypto Complete Reference/01.Node.js cipher.final() Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.Node.js crypto.createHmac() Method"
+              "title": "01.Node.js cipher.final() Method"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05.Node.js Crypto Complete Reference/10.Node.js crypto.createHmac() Method.md",
+                "file": "05.Node.js Crypto Complete Reference/01.Node.js cipher.final() Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 10.Node.js crypto.createHmac() Method"
+              "title": "Sumário de 01.Node.js cipher.final() Method"
             }
           },
           {
@@ -169,32 +169,32 @@
   },
   "active": "ae980dc434985304",
   "lastOpenFiles": [
+    "05.Node.js Crypto Complete Reference/31.Node.js decipher.final() Method.md",
+    "05.Node.js Crypto Complete Reference/30.Node.js decipher.update() Method.md",
+    "05.Node.js Crypto Complete Reference/29.Node.js script.createCachedData() Method.md",
+    "05.Node.js Crypto Complete Reference/28.Node.js crypto.privateEncrypt() Method.md",
+    "05.Node.js Crypto Complete Reference/27.Node.js crypto.scrypt() Method.md",
+    "05.Node.js Crypto Complete Reference/26.Node.js crypto.randomFill() Method.md",
+    "05.Node.js Crypto Complete Reference/25.Node.js crypto.randomFillSync() Method.md",
+    "05.Node.js Crypto Complete Reference/24.Node.js crypto.generateKeyPairSync() Method.md",
+    "05.Node.js Crypto Complete Reference/23.Node.js crypto.publicEncrypt() Method.md",
+    "05.Node.js Crypto Complete Reference/22.Node.js crypto.generateKeyPair() Method.md",
+    "05.Node.js Crypto Complete Reference/21.Node.js crypto.createDiffieHellman(prime, primeEncoding, generator, generatorEncoding) Method.md",
+    "05.Node.js Crypto Complete Reference/20.Node.js crypto.privateDecrypt() Method.md",
+    "05.Node.js Crypto Complete Reference/19.Node.js crypto.createDiffieHellman(primeLength, generator) Method.md",
+    "05.Node.js Crypto Complete Reference/18.Node.js crypto.createDiffieHellmanGroup() Method.md",
+    "05.Node.js Crypto Complete Reference/17.Node.js crypto.createVerify() Method.md",
+    "05.Node.js Crypto Complete Reference/16.Node.js crypto.createSign() Method.md",
+    "05.Node.js Crypto Complete Reference/15.Node.js crypto.getHashes() Method.md",
+    "05.Node.js Crypto Complete Reference/14.Node.js crypto.getCurves() Method.md",
+    "05.Node.js Crypto Complete Reference/13.Node.js crypto.pbkdf2Sync() Method.md",
+    "05.Node.js Crypto Complete Reference/12.Node.js crypto.publicDecrypt() Method.md",
+    "05.Node.js Crypto Complete Reference/11.Node.js crypto.randomBytes() Method.md",
+    "05.Node.js Crypto Complete Reference/10.Node.js crypto.createHmac() Method.md",
     "05.Node.js Crypto Complete Reference/09.Node.js crypto.createHash() Method.md",
     "05.Node.js Crypto Complete Reference/08.Node.js crypto.pbkdf2() Method.md",
     "05.Node.js Crypto Complete Reference/07.Node.js crypto.getDiffieHellman() Method.md",
     "05.Node.js Crypto Complete Reference/06.Node.js crypto.createCipheriv() Method.md",
-    "05.Node.js Crypto Complete Reference/05.Node.js crypto.createDecipheriv() Method.md",
-    "05.Node.js Crypto Complete Reference/04.Node.js crypto.createECDH() Method.md",
-    "05.Node.js Crypto Complete Reference/03.Node.js crypto.getCiphers() Method.md",
-    "05.Node.js Crypto Complete Reference/02.Node.js cipher.update() Method.md",
-    "05.Node.js Crypto Complete Reference/01.Node.js cipher.final() Method.md",
-    "04.Node.js Console Complete Reference/01.Node.js console.assert() Method.md",
-    "04.Node.js Console Complete Reference/18.Node.js console.warn() Function.md",
-    "04.Node.js Console Complete Reference/17.Node.js console.trace() Method.md",
-    "04.Node.js Console Complete Reference/16.Node.js console.timeEnd() Method.md",
-    "04.Node.js Console Complete Reference/15.Node.js console.timeStamp() Method.md",
-    "04.Node.js Console Complete Reference/14.Node.js console.profileEnd() Method.md",
-    "04.Node.js Console Complete Reference/13.Node.js console.profile() Method.md",
-    "04.Node.js Console Complete Reference/12.Node.js new Console() Method.md",
-    "04.Node.js Console Complete Reference/11.Node.js console.table() Method.md",
-    "04.Node.js Console Complete Reference/10.Node.js console.time() Method.md",
-    "04.Node.js Console Complete Reference/09.Node.js console.timeLog() Method.md",
-    "04.Node.js Console Complete Reference/08.Node.js console.info() Method.md",
-    "04.Node.js Console Complete Reference/07.Node.js console.error() Function.md",
-    "04.Node.js Console Complete Reference/06.Node.js console.dir() Method.md",
-    "04.Node.js Console Complete Reference/05.Node.js console.debug() Method.md",
-    "04.Node.js Console Complete Reference/04.Node.js console.countReset() Method.md",
-    "04.Node.js Console Complete Reference/03.Node.js console.count() Method.md",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
